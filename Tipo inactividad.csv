@@ -1,0 +1,763 @@
+﻿year;Mes;Tipo inactividad;Género;sexo;Total
+2010;1;Estudiando ;1;hombre;2760
+2010;1;Estudiando ;0;mujer;2622
+2010;1;Oficios del Hogar ;1;hombre;310
+2010;1;Oficios del Hogar ;0;mujer;5180
+2010;1;Otros;1;hombre;1356
+2010;1;Otros;0;mujer;874
+2010;2;Estudiando ;1;hombre;2883
+2010;2;Estudiando ;0;mujer;2731
+2010;2;Oficios del Hogar ;1;hombre;301
+2010;2;Oficios del Hogar ;0;mujer;5018
+2010;2;Otros;1;hombre;1274
+2010;2;Otros;0;mujer;794
+2010;3;Estudiando ;1;hombre;2880
+2010;3;Estudiando ;0;mujer;2750
+2010;3;Oficios del Hogar ;1;hombre;296
+2010;3;Oficios del Hogar ;0;mujer;5022
+2010;3;Otros;1;hombre;1266
+2010;3;Otros;0;mujer;809
+2010;4;Estudiando ;1;hombre;2856
+2010;4;Estudiando ;0;mujer;2747
+2010;4;Oficios del Hogar ;1;hombre;278
+2010;4;Oficios del Hogar ;0;mujer;4979
+2010;4;Otros;1;hombre;1245
+2010;4;Otros;0;mujer;833
+2010;5;Estudiando ;1;hombre;2853
+2010;5;Estudiando ;0;mujer;2719
+2010;5;Oficios del Hogar ;1;hombre;292
+2010;5;Oficios del Hogar ;0;mujer;5057
+2010;5;Otros;1;hombre;1243
+2010;5;Otros;0;mujer;857
+2010;6;Estudiando ;1;hombre;2830
+2010;6;Estudiando ;0;mujer;2715
+2010;6;Oficios del Hogar ;1;hombre;307
+2010;6;Oficios del Hogar ;0;mujer;5072
+2010;6;Otros;1;hombre;1243
+2010;6;Otros;0;mujer;855
+2010;7;Estudiando ;1;hombre;2796
+2010;7;Estudiando ;0;mujer;2700
+2010;7;Oficios del Hogar ;1;hombre;316
+2010;7;Oficios del Hogar ;0;mujer;4987
+2010;7;Otros;1;hombre;1263
+2010;7;Otros;0;mujer;869
+2010;8;Estudiando ;1;hombre;2753
+2010;8;Estudiando ;0;mujer;2726
+2010;8;Oficios del Hogar ;1;hombre;323
+2010;8;Oficios del Hogar ;0;mujer;4898
+2010;8;Otros;1;hombre;1258
+2010;8;Otros;0;mujer;840
+2010;9;Estudiando ;1;hombre;2765
+2010;9;Estudiando ;0;mujer;2691
+2010;9;Oficios del Hogar ;1;hombre;312
+2010;9;Oficios del Hogar ;0;mujer;4826
+2010;9;Otros;1;hombre;1257
+2010;9;Otros;0;mujer;828
+2010;10;Estudiando ;1;hombre;2644
+2010;10;Estudiando ;0;mujer;2534
+2010;10;Oficios del Hogar ;1;hombre;325
+2010;10;Oficios del Hogar ;0;mujer;5038
+2010;10;Otros;1;hombre;1342
+2010;10;Otros;0;mujer;862
+2010;11;Estudiando ;1;hombre;2607
+2010;11;Estudiando ;0;mujer;2463
+2010;11;Oficios del Hogar ;1;hombre;316
+2010;11;Oficios del Hogar ;0;mujer;5133
+2010;11;Otros;1;hombre;1424
+2010;11;Otros;0;mujer;970
+2010;12;Estudiando ;1;hombre;2605
+2010;12;Estudiando ;0;mujer;2503
+2010;12;Oficios del Hogar ;1;hombre;317
+2010;12;Oficios del Hogar ;0;mujer;5226
+2010;12;Otros;1;hombre;1455
+2010;12;Otros;0;mujer;969
+2011;1;Estudiando ;1;hombre;2739
+2011;1;Estudiando ;0;mujer;2675
+2011;1;Oficios del Hogar ;1;hombre;291
+2011;1;Oficios del Hogar ;0;mujer;5120
+2011;1;Otros;1;hombre;1379
+2011;1;Otros;0;mujer;923
+2011;2;Estudiando ;1;hombre;2827
+2011;2;Estudiando ;0;mujer;2748
+2011;2;Oficios del Hogar ;1;hombre;282
+2011;2;Oficios del Hogar ;0;mujer;5103
+2011;2;Otros;1;hombre;1307
+2011;2;Otros;0;mujer;852
+2011;3;Estudiando ;1;hombre;2792
+2011;3;Estudiando ;0;mujer;2759
+2011;3;Oficios del Hogar ;1;hombre;274
+2011;3;Oficios del Hogar ;0;mujer;5037
+2011;3;Otros;1;hombre;1303
+2011;3;Otros;0;mujer;844
+2011;4;Estudiando ;1;hombre;2790
+2011;4;Estudiando ;0;mujer;2701
+2011;4;Oficios del Hogar ;1;hombre;281
+2011;4;Oficios del Hogar ;0;mujer;5054
+2011;4;Otros;1;hombre;1303
+2011;4;Otros;0;mujer;862
+2011;5;Estudiando ;1;hombre;2744
+2011;5;Estudiando ;0;mujer;2673
+2011;5;Oficios del Hogar ;1;hombre;283
+2011;5;Oficios del Hogar ;0;mujer;5079
+2011;5;Otros;1;hombre;1318
+2011;5;Otros;0;mujer;849
+2011;6;Estudiando ;1;hombre;2771
+2011;6;Estudiando ;0;mujer;2674
+2011;6;Oficios del Hogar ;1;hombre;305
+2011;6;Oficios del Hogar ;0;mujer;5106
+2011;6;Otros;1;hombre;1322
+2011;6;Otros;0;mujer;876
+2011;7;Estudiando ;1;hombre;2776
+2011;7;Estudiando ;0;mujer;2697
+2011;7;Oficios del Hogar ;1;hombre;293
+2011;7;Oficios del Hogar ;0;mujer;5004
+2011;7;Otros;1;hombre;1327
+2011;7;Otros;0;mujer;858
+2011;8;Estudiando ;1;hombre;2626
+2011;8;Estudiando ;0;mujer;2609
+2011;8;Oficios del Hogar ;1;hombre;300
+2011;8;Oficios del Hogar ;0;mujer;4854
+2011;8;Otros;1;hombre;1308
+2011;8;Otros;0;mujer;854
+2011;9;Estudiando ;1;hombre;2532
+2011;9;Estudiando ;0;mujer;2540
+2011;9;Oficios del Hogar ;1;hombre;303
+2011;9;Oficios del Hogar ;0;mujer;4732
+2011;9;Otros;1;hombre;1283
+2011;9;Otros;0;mujer;847
+2011;10;Estudiando ;1;hombre;2238
+2011;10;Estudiando ;0;mujer;2293
+2011;10;Oficios del Hogar ;1;hombre;349
+2011;10;Oficios del Hogar ;0;mujer;4904
+2011;10;Otros;1;hombre;1385
+2011;10;Otros;0;mujer;966
+2011;11;Estudiando ;1;hombre;2285
+2011;11;Estudiando ;0;mujer;2302
+2011;11;Oficios del Hogar ;1;hombre;353
+2011;11;Oficios del Hogar ;0;mujer;5031
+2011;11;Otros;1;hombre;1487
+2011;11;Otros;0;mujer;1042
+2011;12;Estudiando ;1;hombre;2331
+2011;12;Estudiando ;0;mujer;2330
+2011;12;Oficios del Hogar ;1;hombre;342
+2011;12;Oficios del Hogar ;0;mujer;5022
+2011;12;Otros;1;hombre;1523
+2011;12;Otros;0;mujer;1105
+2012;1;Estudiando ;1;hombre;2626
+2012;1;Estudiando ;0;mujer;2583
+2012;1;Oficios del Hogar ;1;hombre;299
+2012;1;Oficios del Hogar ;0;mujer;4813
+2012;1;Otros;1;hombre;1409
+2012;1;Otros;0;mujer;1023
+2012;2;Estudiando ;1;hombre;2715
+2012;2;Estudiando ;0;mujer;2672
+2012;2;Oficios del Hogar ;1;hombre;303
+2012;2;Oficios del Hogar ;0;mujer;4670
+2012;2;Otros;1;hombre;1330
+2012;2;Otros;0;mujer;1013
+2012;3;Estudiando ;1;hombre;2701
+2012;3;Estudiando ;0;mujer;2621
+2012;3;Oficios del Hogar ;1;hombre;283
+2012;3;Oficios del Hogar ;0;mujer;4679
+2012;3;Otros;1;hombre;1321
+2012;3;Otros;0;mujer;1009
+2012;4;Estudiando ;1;hombre;2636
+2012;4;Estudiando ;0;mujer;2503
+2012;4;Oficios del Hogar ;1;hombre;291
+2012;4;Oficios del Hogar ;0;mujer;4642
+2012;4;Otros;1;hombre;1371
+2012;4;Otros;0;mujer;1049
+2012;5;Estudiando ;1;hombre;2639
+2012;5;Estudiando ;0;mujer;2489
+2012;5;Oficios del Hogar ;1;hombre;259
+2012;5;Oficios del Hogar ;0;mujer;4677
+2012;5;Otros;1;hombre;1390
+2012;5;Otros;0;mujer;1089
+2012;6;Estudiando ;1;hombre;2392
+2012;6;Estudiando ;0;mujer;2508
+2012;6;Oficios del Hogar ;1;hombre;270
+2012;6;Oficios del Hogar ;0;mujer;4744
+2012;6;Otros;1;hombre;1364
+2012;6;Otros;0;mujer;1100
+2012;7;Estudiando ;1;hombre;2727
+2012;7;Estudiando ;0;mujer;2615
+2012;7;Oficios del Hogar ;1;hombre;271
+2012;7;Oficios del Hogar ;0;mujer;4795
+2012;7;Otros;1;hombre;1352
+2012;7;Otros;0;mujer;1121
+2012;8;Estudiando ;1;hombre;2640
+2012;8;Estudiando ;0;mujer;2583
+2012;8;Oficios del Hogar ;1;hombre;298
+2012;8;Oficios del Hogar ;0;mujer;4730
+2012;8;Otros;1;hombre;1335
+2012;8;Otros;0;mujer;1123
+2012;9;Estudiando ;1;hombre;2592
+2012;9;Estudiando ;0;mujer;2615
+2012;9;Oficios del Hogar ;1;hombre;322
+2012;9;Oficios del Hogar ;0;mujer;4723
+2012;9;Otros;1;hombre;1372
+2012;9;Otros;0;mujer;1114
+2012;10;Estudiando ;1;hombre;2392
+2012;10;Estudiando ;0;mujer;2419
+2012;10;Oficios del Hogar ;1;hombre;354
+2012;10;Oficios del Hogar ;0;mujer;4847
+2012;10;Otros;1;hombre;1474
+2012;10;Otros;0;mujer;1148
+2012;11;Estudiando ;1;hombre;2388
+2012;11;Estudiando ;0;mujer;2340
+2012;11;Oficios del Hogar ;1;hombre;352
+2012;11;Oficios del Hogar ;0;mujer;5031
+2012;11;Otros;1;hombre;1555
+2012;11;Otros;0;mujer;1212
+2012;12;Estudiando ;1;hombre;2430
+2012;12;Estudiando ;0;mujer;2354
+2012;12;Oficios del Hogar ;1;hombre;340
+2012;12;Oficios del Hogar ;0;mujer;5076
+2012;12;Otros;1;hombre;1563
+2012;12;Otros;0;mujer;1204
+2013;1;Estudiando ;1;hombre;2641
+2013;1;Estudiando ;0;mujer;2535
+2013;1;Oficios del Hogar ;1;hombre;308
+2013;1;Oficios del Hogar ;0;mujer;5062
+2013;1;Otros;1;hombre;1485
+2013;1;Otros;0;mujer;1154
+2013;2;Estudiando ;1;hombre;2797
+2013;2;Estudiando ;0;mujer;2673
+2013;2;Oficios del Hogar ;1;hombre;328
+2013;2;Oficios del Hogar ;0;mujer;5000
+2013;2;Otros;1;hombre;1427
+2013;2;Otros;0;mujer;1026
+2013;3;Estudiando ;1;hombre;2800
+2013;3;Estudiando ;0;mujer;2672
+2013;3;Oficios del Hogar ;1;hombre;319
+2013;3;Oficios del Hogar ;0;mujer;4924
+2013;3;Otros;1;hombre;1409
+2013;3;Otros;0;mujer;1005
+2013;4;Estudiando ;1;hombre;2812
+2013;4;Estudiando ;0;mujer;2636
+2013;4;Oficios del Hogar ;1;hombre;340
+2013;4;Oficios del Hogar ;0;mujer;4842
+2013;4;Otros;1;hombre;1397
+2013;4;Otros;0;mujer;1016
+2013;5;Estudiando ;1;hombre;2801
+2013;5;Estudiando ;0;mujer;2641
+2013;5;Oficios del Hogar ;1;hombre;315
+2013;5;Oficios del Hogar ;0;mujer;4761
+2013;5;Otros;1;hombre;1389
+2013;5;Otros;0;mujer;1069
+2013;6;Estudiando ;1;hombre;2820
+2013;6;Estudiando ;0;mujer;2640
+2013;6;Oficios del Hogar ;1;hombre;317
+2013;6;Oficios del Hogar ;0;mujer;4734
+2013;6;Otros;1;hombre;1423
+2013;6;Otros;0;mujer;1089
+2013;7;Estudiando ;1;hombre;2800
+2013;7;Estudiando ;0;mujer;2711
+2013;7;Oficios del Hogar ;1;hombre;304
+2013;7;Oficios del Hogar ;0;mujer;4716
+2013;7;Otros;1;hombre;1428
+2013;7;Otros;0;mujer;1081
+2013;8;Estudiando ;1;hombre;2732
+2013;8;Estudiando ;0;mujer;2662
+2013;8;Oficios del Hogar ;1;hombre;305
+2013;8;Oficios del Hogar ;0;mujer;4692
+2013;8;Otros;1;hombre;1391
+2013;8;Otros;0;mujer;1039
+2013;9;Estudiando ;1;hombre;2683
+2013;9;Estudiando ;0;mujer;2634
+2013;9;Oficios del Hogar ;1;hombre;332
+2013;9;Oficios del Hogar ;0;mujer;4769
+2013;9;Otros;1;hombre;1399
+2013;9;Otros;0;mujer;1055
+2013;10;Estudiando ;1;hombre;2501
+2013;10;Estudiando ;0;mujer;2451
+2013;10;Oficios del Hogar ;1;hombre;345
+2013;10;Oficios del Hogar ;0;mujer;4919
+2013;10;Otros;1;hombre;1482
+2013;10;Otros;0;mujer;1094
+2013;11;Estudiando ;1;hombre;2440
+2013;11;Estudiando ;0;mujer;2391
+2013;11;Oficios del Hogar ;1;hombre;364
+2013;11;Oficios del Hogar ;0;mujer;5092
+2013;11;Otros;1;hombre;1611
+2013;11;Otros;0;mujer;1207
+2013;12;Estudiando ;1;hombre;2549
+2013;12;Estudiando ;0;mujer;2436
+2013;12;Oficios del Hogar ;1;hombre;340
+2013;12;Oficios del Hogar ;0;mujer;5137
+2013;12;Otros;1;hombre;1611
+2013;12;Otros;0;mujer;1203
+2014;1;Estudiando ;1;hombre;2782
+2014;1;Estudiando ;0;mujer;2634
+2014;1;Oficios del Hogar ;1;hombre;336
+2014;1;Oficios del Hogar ;0;mujer;5062
+2014;1;Otros;1;hombre;1524
+2014;1;Otros;0;mujer;1156
+2014;2;Estudiando ;1;hombre;2923
+2014;2;Estudiando ;0;mujer;2727
+2014;2;Oficios del Hogar ;1;hombre;337
+2014;2;Oficios del Hogar ;0;mujer;4993
+2014;2;Otros;1;hombre;1437
+2014;2;Otros;0;mujer;1065
+2014;3;Estudiando ;1;hombre;2882
+2014;3;Estudiando ;0;mujer;2708
+2014;3;Oficios del Hogar ;1;hombre;341
+2014;3;Oficios del Hogar ;0;mujer;4969
+2014;3;Otros;1;hombre;1409
+2014;3;Otros;0;mujer;1076
+2014;4;Estudiando ;1;hombre;2819
+2014;4;Estudiando ;0;mujer;2631
+2014;4;Oficios del Hogar ;1;hombre;361
+2014;4;Oficios del Hogar ;0;mujer;4925
+2014;4;Otros;1;hombre;1416
+2014;4;Otros;0;mujer;1075
+2014;5;Estudiando ;1;hombre;2797
+2014;5;Estudiando ;0;mujer;2667
+2014;5;Oficios del Hogar ;1;hombre;367
+2014;5;Oficios del Hogar ;0;mujer;4922
+2014;5;Otros;1;hombre;1444
+2014;5;Otros;0;mujer;1084
+2014;6;Estudiando ;1;hombre;2775
+2014;6;Estudiando ;0;mujer;2647
+2014;6;Oficios del Hogar ;1;hombre;349
+2014;6;Oficios del Hogar ;0;mujer;4874
+2014;6;Otros;1;hombre;1463
+2014;6;Otros;0;mujer;1091
+2014;7;Estudiando ;1;hombre;2776
+2014;7;Estudiando ;0;mujer;2697
+2014;7;Oficios del Hogar ;1;hombre;322
+2014;7;Oficios del Hogar ;0;mujer;4829
+2014;7;Otros;1;hombre;1454
+2014;7;Otros;0;mujer;1101
+2014;8;Estudiando ;1;hombre;2693
+2014;8;Estudiando ;0;mujer;2618
+2014;8;Oficios del Hogar ;1;hombre;282
+2014;8;Oficios del Hogar ;0;mujer;4722
+2014;8;Otros;1;hombre;1408
+2014;8;Otros;0;mujer;1108
+2014;9;Estudiando ;1;hombre;2653
+2014;9;Estudiando ;0;mujer;2596
+2014;9;Oficios del Hogar ;1;hombre;295
+2014;9;Oficios del Hogar ;0;mujer;4712
+2014;9;Otros;1;hombre;1394
+2014;9;Otros;0;mujer;1117
+2014;10;Estudiando ;1;hombre;2478
+2014;10;Estudiando ;0;mujer;2434
+2014;10;Oficios del Hogar ;1;hombre;320
+2014;10;Oficios del Hogar ;0;mujer;4909
+2014;10;Otros;1;hombre;1487
+2014;10;Otros;0;mujer;1159
+2014;11;Estudiando ;1;hombre;2440
+2014;11;Estudiando ;0;mujer;2393
+2014;11;Oficios del Hogar ;1;hombre;347
+2014;11;Oficios del Hogar ;0;mujer;5114
+2014;11;Otros;1;hombre;1614
+2014;11;Otros;0;mujer;1225
+2014;12;Estudiando ;1;hombre;2502
+2014;12;Estudiando ;0;mujer;2437
+2014;12;Oficios del Hogar ;1;hombre;349
+2014;12;Oficios del Hogar ;0;mujer;5247
+2014;12;Otros;1;hombre;1628
+2014;12;Otros;0;mujer;1198
+2015;1;Estudiando ;1;hombre;2718
+2015;1;Estudiando ;0;mujer;2578
+2015;1;Oficios del Hogar ;1;hombre;333
+2015;1;Oficios del Hogar ;0;mujer;5153
+2015;1;Otros;1;hombre;1539
+2015;1;Otros;0;mujer;1131
+2015;2;Estudiando ;1;hombre;2781
+2015;2;Estudiando ;0;mujer;2658
+2015;2;Oficios del Hogar ;1;hombre;326
+2015;2;Oficios del Hogar ;0;mujer;4980
+2015;2;Otros;1;hombre;1440
+2015;2;Otros;0;mujer;1074
+2015;3;Estudiando ;1;hombre;2774
+2015;3;Estudiando ;0;mujer;2647
+2015;3;Oficios del Hogar ;1;hombre;335
+2015;3;Oficios del Hogar ;0;mujer;4879
+2015;3;Otros;1;hombre;1443
+2015;3;Otros;0;mujer;1082
+2015;4;Estudiando ;1;hombre;2725
+2015;4;Estudiando ;0;mujer;2607
+2015;4;Oficios del Hogar ;1;hombre;336
+2015;4;Oficios del Hogar ;0;mujer;4821
+2015;4;Otros;1;hombre;1507
+2015;4;Otros;0;mujer;1115
+2015;5;Estudiando ;1;hombre;2770
+2015;5;Estudiando ;0;mujer;2612
+2015;5;Oficios del Hogar ;1;hombre;336
+2015;5;Oficios del Hogar ;0;mujer;4959
+2015;5;Otros;1;hombre;1527
+2015;5;Otros;0;mujer;1107
+2015;6;Estudiando ;1;hombre;2798
+2015;6;Estudiando ;0;mujer;2601
+2015;6;Oficios del Hogar ;1;hombre;337
+2015;6;Oficios del Hogar ;0;mujer;4934
+2015;6;Otros;1;hombre;1508
+2015;6;Otros;0;mujer;1126
+2015;7;Estudiando ;1;hombre;2871
+2015;7;Estudiando ;0;mujer;2664
+2015;7;Oficios del Hogar ;1;hombre;325
+2015;7;Oficios del Hogar ;0;mujer;4861
+2015;7;Otros;1;hombre;1460
+2015;7;Otros;0;mujer;1128
+2015;8;Estudiando ;1;hombre;2791
+2015;8;Estudiando ;0;mujer;2635
+2015;8;Oficios del Hogar ;1;hombre;310
+2015;8;Oficios del Hogar ;0;mujer;4690
+2015;8;Otros;1;hombre;1428
+2015;8;Otros;0;mujer;1110
+2015;9;Estudiando ;1;hombre;2708
+2015;9;Estudiando ;0;mujer;2644
+2015;9;Oficios del Hogar ;1;hombre;310
+2015;9;Oficios del Hogar ;0;mujer;4697
+2015;9;Otros;1;hombre;1436
+2015;9;Otros;0;mujer;1072
+2015;10;Estudiando ;1;hombre;2483
+2015;10;Estudiando ;0;mujer;2456
+2015;10;Oficios del Hogar ;1;hombre;348
+2015;10;Oficios del Hogar ;0;mujer;4877
+2015;10;Otros;1;hombre;1489
+2015;10;Otros;0;mujer;1154
+2015;11;Estudiando ;1;hombre;2503
+2015;11;Estudiando ;0;mujer;2383
+2015;11;Oficios del Hogar ;1;hombre;381
+2015;11;Oficios del Hogar ;0;mujer;5071
+2015;11;Otros;1;hombre;1556
+2015;11;Otros;0;mujer;1219
+2015;12;Estudiando ;1;hombre;2546
+2015;12;Estudiando ;0;mujer;2368
+2015;12;Oficios del Hogar ;1;hombre;380
+2015;12;Oficios del Hogar ;0;mujer;5160
+2015;12;Otros;1;hombre;1593
+2015;12;Otros;0;mujer;1241
+2016;1;Estudiando ;1;hombre;2720
+2016;1;Estudiando ;0;mujer;2543
+2016;1;Oficios del Hogar ;1;hombre;411
+2016;1;Oficios del Hogar ;0;mujer;5161
+2016;1;Otros;1;hombre;1549
+2016;1;Otros;0;mujer;1146
+2016;2;Estudiando ;1;hombre;2863
+2016;2;Estudiando ;0;mujer;2669
+2016;2;Oficios del Hogar ;1;hombre;394
+2016;2;Oficios del Hogar ;0;mujer;5078
+2016;2;Otros;1;hombre;1468
+2016;2;Otros;0;mujer;1069
+2016;3;Estudiando ;1;hombre;2915
+2016;3;Estudiando ;0;mujer;2709
+2016;3;Oficios del Hogar ;1;hombre;416
+2016;3;Oficios del Hogar ;0;mujer;5049
+2016;3;Otros;1;hombre;1455
+2016;3;Otros;0;mujer;1075
+2016;4;Estudiando ;1;hombre;2900
+2016;4;Estudiando ;0;mujer;2705
+2016;4;Oficios del Hogar ;1;hombre;389
+2016;4;Oficios del Hogar ;0;mujer;4971
+2016;4;Otros;1;hombre;1444
+2016;4;Otros;0;mujer;1068
+2016;5;Estudiando ;1;hombre;2847
+2016;5;Estudiando ;0;mujer;2719
+2016;5;Oficios del Hogar ;1;hombre;429
+2016;5;Oficios del Hogar ;0;mujer;5087
+2016;5;Otros;1;hombre;1478
+2016;5;Otros;0;mujer;1061
+2016;6;Estudiando ;1;hombre;2784
+2016;6;Estudiando ;0;mujer;2703
+2016;6;Oficios del Hogar ;1;hombre;423
+2016;6;Oficios del Hogar ;0;mujer;5138
+2016;6;Otros;1;hombre;1454
+2016;6;Otros;0;mujer;1045
+2016;7;Estudiando ;1;hombre;2824
+2016;7;Estudiando ;0;mujer;2732
+2016;7;Oficios del Hogar ;1;hombre;401
+2016;7;Oficios del Hogar ;0;mujer;5161
+2016;7;Otros;1;hombre;1472
+2016;7;Otros;0;mujer;1019
+2016;8;Estudiando ;1;hombre;2762
+2016;8;Estudiando ;0;mujer;2654
+2016;8;Oficios del Hogar ;1;hombre;377
+2016;8;Oficios del Hogar ;0;mujer;5009
+2016;8;Otros;1;hombre;1445
+2016;8;Otros;0;mujer;1033
+2016;9;Estudiando ;1;hombre;2742
+2016;9;Estudiando ;0;mujer;2651
+2016;9;Oficios del Hogar ;1;hombre;392
+2016;9;Oficios del Hogar ;0;mujer;4973
+2016;9;Otros;1;hombre;1451
+2016;9;Otros;0;mujer;1004
+2016;10;Estudiando ;1;hombre;2609
+2016;10;Estudiando ;0;mujer;2481
+2016;10;Oficios del Hogar ;1;hombre;390
+2016;10;Oficios del Hogar ;0;mujer;5098
+2016;10;Otros;1;hombre;1499
+2016;10;Otros;0;mujer;1092
+2016;11;Estudiando ;1;hombre;2563
+2016;11;Estudiando ;0;mujer;2407
+2016;11;Oficios del Hogar ;1;hombre;401
+2016;11;Oficios del Hogar ;0;mujer;5335
+2016;11;Otros;1;hombre;1594
+2016;11;Otros;0;mujer;1193
+2016;12;Estudiando ;1;hombre;2619
+2016;12;Estudiando ;0;mujer;2388
+2016;12;Oficios del Hogar ;1;hombre;377
+2016;12;Oficios del Hogar ;0;mujer;5371
+2016;12;Otros;1;hombre;1656
+2016;12;Otros;0;mujer;1259
+2017;1;Estudiando ;1;hombre;2764
+2017;1;Estudiando ;0;mujer;2510
+2017;1;Oficios del Hogar ;1;hombre;376
+2017;1;Oficios del Hogar ;0;mujer;5354
+2017;1;Otros;1;hombre;1622
+2017;1;Otros;0;mujer;1195
+2017;2;Estudiando ;1;hombre;2849
+2017;2;Estudiando ;0;mujer;2598
+2017;2;Oficios del Hogar ;1;hombre;362
+2017;2;Oficios del Hogar ;0;mujer;5188
+2017;2;Otros;1;hombre;1569
+2017;2;Otros;0;mujer;1112
+2017;3;Estudiando ;1;hombre;2836
+2017;3;Estudiando ;0;mujer;2609
+2017;3;Oficios del Hogar ;1;hombre;365
+2017;3;Oficios del Hogar ;0;mujer;5214
+2017;3;Otros;1;hombre;1553
+2017;3;Otros;0;mujer;1089
+2017;4;Estudiando ;1;hombre;2784
+2017;4;Estudiando ;0;mujer;2576
+2017;4;Oficios del Hogar ;1;hombre;368
+2017;4;Oficios del Hogar ;0;mujer;5084
+2017;4;Otros;1;hombre;1556
+2017;4;Otros;0;mujer;1111
+2017;5;Estudiando ;1;hombre;2815
+2017;5;Estudiando ;0;mujer;2606
+2017;5;Oficios del Hogar ;1;hombre;353
+2017;5;Oficios del Hogar ;0;mujer;5202
+2017;5;Otros;1;hombre;1589
+2017;5;Otros;0;mujer;1103
+2017;6;Estudiando ;1;hombre;2811
+2017;6;Estudiando ;0;mujer;2661
+2017;6;Oficios del Hogar ;1;hombre;352
+2017;6;Oficios del Hogar ;0;mujer;5120
+2017;6;Otros;1;hombre;1578
+2017;6;Otros;0;mujer;1125
+2017;7;Estudiando ;1;hombre;2870
+2017;7;Estudiando ;0;mujer;2740
+2017;7;Oficios del Hogar ;1;hombre;348
+2017;7;Oficios del Hogar ;0;mujer;5130
+2017;7;Otros;1;hombre;1566
+2017;7;Otros;0;mujer;1136
+2017;8;Estudiando ;1;hombre;2836
+2017;8;Estudiando ;0;mujer;2723
+2017;8;Oficios del Hogar ;1;hombre;352
+2017;8;Oficios del Hogar ;0;mujer;4998
+2017;8;Otros;1;hombre;1530
+2017;8;Otros;0;mujer;1126
+2017;9;Estudiando ;1;hombre;2830
+2017;9;Estudiando ;0;mujer;2644
+2017;9;Oficios del Hogar ;1;hombre;346
+2017;9;Oficios del Hogar ;0;mujer;5107
+2017;9;Otros;1;hombre;1521
+2017;9;Otros;0;mujer;1093
+2017;10;Estudiando ;1;hombre;2683
+2017;10;Estudiando ;0;mujer;2464
+2017;10;Oficios del Hogar ;1;hombre;362
+2017;10;Oficios del Hogar ;0;mujer;5270
+2017;10;Otros;1;hombre;1628
+2017;10;Otros;0;mujer;1140
+2017;11;Estudiando ;1;hombre;2632
+2017;11;Estudiando ;0;mujer;2347
+2017;11;Oficios del Hogar ;1;hombre;391
+2017;11;Oficios del Hogar ;0;mujer;5493
+2017;11;Otros;1;hombre;1749
+2017;11;Otros;0;mujer;1255
+2017;12;Estudiando ;1;hombre;2604
+2017;12;Estudiando ;0;mujer;2376
+2017;12;Oficios del Hogar ;1;hombre;403
+2017;12;Oficios del Hogar ;0;mujer;5588
+2017;12;Otros;1;hombre;1812
+2017;12;Otros;0;mujer;1285
+2018;1;Estudiando ;1;hombre;2767
+2018;1;Estudiando ;0;mujer;2539
+2018;1;Oficios del Hogar ;1;hombre;412
+2018;1;Oficios del Hogar ;0;mujer;5583
+2018;1;Otros;1;hombre;1728
+2018;1;Otros;0;mujer;1223
+2018;2;Estudiando ;1;hombre;2848
+2018;2;Estudiando ;0;mujer;0
+2018;2;Oficios del Hogar ;1;hombre;392
+2018;2;Oficios del Hogar ;0;mujer;5397
+2018;2;Otros;1;hombre;1633
+2018;2;Otros;0;mujer;1121
+2018;3;Estudiando ;1;hombre;2881
+2018;3;Estudiando ;0;mujer;2689
+2018;3;Oficios del Hogar ;1;hombre;391
+2018;3;Oficios del Hogar ;0;mujer;5346
+2018;3;Otros;1;hombre;1613
+2018;3;Otros;0;mujer;1075
+2018;4;Estudiando ;1;hombre;2820
+2018;4;Estudiando ;0;mujer;2652
+2018;4;Oficios del Hogar ;1;hombre;371
+2018;4;Oficios del Hogar ;0;mujer;5317
+2018;4;Otros;1;hombre;1608
+2018;4;Otros;0;mujer;1086
+2018;5;Estudiando ;1;hombre;2791
+2018;5;Estudiando ;0;mujer;2639
+2018;5;Oficios del Hogar ;1;hombre;374
+2018;5;Oficios del Hogar ;0;mujer;5472
+2018;5;Otros;1;hombre;1616
+2018;5;Otros;0;mujer;1105
+2018;6;Estudiando ;1;hombre;2812
+2018;6;Estudiando ;0;mujer;2649
+2018;6;Oficios del Hogar ;1;hombre;364
+2018;6;Oficios del Hogar ;0;mujer;5415
+2018;6;Otros;1;hombre;1608
+2018;6;Otros;0;mujer;1160
+2018;7;Estudiando ;1;hombre;2867
+2018;7;Estudiando ;0;mujer;2677
+2018;7;Oficios del Hogar ;1;hombre;348
+2018;7;Oficios del Hogar ;0;mujer;5359
+2018;7;Otros;1;hombre;1584
+2018;7;Otros;0;mujer;1156
+2018;8;Estudiando ;1;hombre;2833
+2018;8;Estudiando ;0;mujer;2637
+2018;8;Oficios del Hogar ;1;hombre;344
+2018;8;Oficios del Hogar ;0;mujer;5197
+2018;8;Otros;1;hombre;1619
+2018;8;Otros;0;mujer;1180
+2018;9;Estudiando ;1;hombre;2860
+2018;9;Estudiando ;0;mujer;2644
+2018;9;Oficios del Hogar ;1;hombre;360
+2018;9;Oficios del Hogar ;0;mujer;5303
+2018;9;Otros;1;hombre;1652
+2018;9;Otros;0;mujer;1149
+2018;10;Estudiando ;1;hombre;2644
+2018;10;Estudiando ;0;mujer;2464
+2018;10;Oficios del Hogar ;1;hombre;389
+2018;10;Oficios del Hogar ;0;mujer;5424
+2018;10;Otros;1;hombre;1746
+2018;10;Otros;0;mujer;1229
+2018;11;Estudiando ;1;hombre;2617
+2018;11;Estudiando ;0;mujer;2393
+2018;11;Oficios del Hogar ;1;hombre;406
+2018;11;Oficios del Hogar ;0;mujer;5617
+2018;11;Otros;1;hombre;1792
+2018;11;Otros;0;mujer;1303
+2018;12;Estudiando ;1;hombre;2565
+2018;12;Estudiando ;0;mujer;2363
+2018;12;Oficios del Hogar ;1;hombre;401
+2018;12;Oficios del Hogar ;0;mujer;5554
+2018;12;Otros;1;hombre;1797
+2018;12;Otros;0;mujer;1357
+2019;1;Estudiando ;1;hombre;2787
+2019;1;Estudiando ;0;mujer;2552
+2019;1;Oficios del Hogar ;1;hombre;388
+2019;1;Oficios del Hogar ;0;mujer;5505
+2019;1;Otros;1;hombre;1762
+2019;1;Otros;0;mujer;1296
+2019;2;Estudiando ;1;hombre;2889
+2019;2;Estudiando ;0;mujer;2679
+2019;2;Oficios del Hogar ;1;hombre;399
+2019;2;Oficios del Hogar ;0;mujer;5519
+2019;2;Otros;1;hombre;1763
+2019;2;Otros;0;mujer;1218
+2019;3;Estudiando ;1;hombre;2952
+2019;3;Estudiando ;0;mujer;2718
+2019;3;Oficios del Hogar ;1;hombre;417
+2019;3;Oficios del Hogar ;0;mujer;5529
+2019;3;Otros;1;hombre;1766
+2019;3;Otros;0;mujer;1207
+2019;4;Estudiando ;1;hombre;2927
+2019;4;Estudiando ;0;mujer;2701
+2019;4;Oficios del Hogar ;1;hombre;435
+2019;4;Oficios del Hogar ;0;mujer;5540
+2019;4;Otros;1;hombre;1747
+2019;4;Otros;0;mujer;1220
+2019;5;Estudiando ;1;hombre;2927
+2019;5;Estudiando ;0;mujer;2655
+2019;5;Oficios del Hogar ;1;hombre;404
+2019;5;Oficios del Hogar ;0;mujer;5521
+2019;5;Otros;1;hombre;1746
+2019;5;Otros;0;mujer;1232
+2019;6;Estudiando ;1;hombre;2879
+2019;6;Estudiando ;0;mujer;2659
+2019;6;Oficios del Hogar ;1;hombre;388
+2019;6;Oficios del Hogar ;0;mujer;5579
+2019;6;Otros;1;hombre;1778
+2019;6;Otros;0;mujer;1237
+2019;7;Estudiando ;1;hombre;2939
+2019;7;Estudiando ;0;mujer;2697
+2019;7;Oficios del Hogar ;1;hombre;374
+2019;7;Oficios del Hogar ;0;mujer;5588
+2019;7;Otros;1;hombre;1817
+2019;7;Otros;0;mujer;1220
+2019;8;Estudiando ;1;hombre;2929
+2019;8;Estudiando ;0;mujer;2747
+2019;8;Oficios del Hogar ;1;hombre;371
+2019;8;Oficios del Hogar ;0;mujer;5461
+2019;8;Otros;1;hombre;1792
+2019;8;Otros;0;mujer;1206
+2019;9;Estudiando ;1;hombre;2923
+2019;9;Estudiando ;0;mujer;2708
+2019;9;Oficios del Hogar ;1;hombre;388
+2019;9;Oficios del Hogar ;0;mujer;5454
+2019;9;Otros;1;hombre;1737
+2019;9;Otros;0;mujer;1201
+2019;10;Estudiando ;1;hombre;2745
+2019;10;Estudiando ;0;mujer;2547
+2019;10;Oficios del Hogar ;1;hombre;433
+2019;10;Oficios del Hogar ;0;mujer;5580
+2019;10;Otros;1;hombre;1743
+2019;10;Otros;0;mujer;1271
+2019;11;Estudiando ;1;hombre;2651
+2019;11;Estudiando ;0;mujer;2440
+2019;11;Oficios del Hogar ;1;hombre;475
+2019;11;Oficios del Hogar ;0;mujer;5779
+2019;11;Otros;1;hombre;1809
+2019;11;Otros;0;mujer;1387
+2019;12;Estudiando ;1;hombre;2657
+2019;12;Estudiando ;0;mujer;2423
+2019;12;Oficios del Hogar ;1;hombre;469
+2019;12;Oficios del Hogar ;0;mujer;5855
+2019;12;Otros;1;hombre;1832
+2019;12;Otros;0;mujer;1400
+2020;1;Estudiando ;1;hombre;2789
+2020;1;Estudiando ;0;mujer;2524
+2020;1;Oficios del Hogar ;1;hombre;531
+2020;1;Oficios del Hogar ;0;mujer;6053
+2020;1;Otros;1;hombre;1969
+2020;1;Otros;0;mujer;1364
+2020;2;Estudiando ;1;hombre;2910
+2020;2;Estudiando ;0;mujer;2659
+2020;2;Oficios del Hogar ;1;hombre;815
+2020;2;Oficios del Hogar ;0;mujer;6593
+2020;2;Otros;1;hombre;2291
+2020;2;Otros;0;mujer;1389
+2020;3;Estudiando ;1;hombre;2980
+2020;3;Estudiando ;0;mujer;2743
+2020;3;Oficios del Hogar ;1;hombre;1002
+2020;3;Oficios del Hogar ;0;mujer;7052
+2020;3;Otros;1;hombre;2530
+2020;3;Otros;0;mujer;1422
+2020;4;Estudiando ;1;hombre;2993
+2020;4;Estudiando ;0;mujer;2763
+2020;4;Oficios del Hogar ;1;hombre;1100
+2020;4;Oficios del Hogar ;0;mujer;7256
+2020;4;Otros;1;hombre;2483
+2020;4;Otros;0;mujer;1384
+2020;5;Estudiando ;1;hombre;3009
+2020;5;Estudiando ;0;mujer;2745
+2020;5;Oficios del Hogar ;1;hombre;933
+2020;5;Oficios del Hogar ;0;mujer;7236
+2020;5;Otros;1;hombre;2218
+2020;5;Otros;0;mujer;1234
+2020;6;Estudiando ;1;hombre;2931
+2020;6;Estudiando ;0;mujer;2684
+2020;6;Oficios del Hogar ;1;hombre;845
+2020;6;Oficios del Hogar ;0;mujer;7129
+2020;6;Otros;1;hombre;2065
+2020;6;Otros;0;mujer;1195
+2020;7;Estudiando ;1;hombre;2902
+2020;7;Estudiando ;0;mujer;2703
+2020;7;Oficios del Hogar ;1;hombre;752
+2020;7;Oficios del Hogar ;0;mujer;6929
+2020;7;Otros;1;hombre;2016
+2020;7;Otros;0;mujer;1208

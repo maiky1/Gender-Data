@@ -1,0 +1,73 @@
+﻿year;Manera;Género;sexo;Muertes
+2010;Accidental;1;hombre;2386
+2010;Accidental;0;mujer;574
+2010;Accidente de transporte;1;hombre;4128
+2010;Accidente de transporte;0;mujer;1040
+2010;Homicidio;1;hombre;14553
+2010;Homicidio;0;mujer;1303
+2010;Suicidio;1;hombre;1341
+2010;Suicidio;0;mujer;301
+2011;Accidental;1;hombre;2252
+2011;Accidente de transporte;0;mujer;1021
+2011;Homicidio;1;hombre;13358
+2011;Suicidio;0;mujer;311
+2012;Accidental;1;hombre;1974
+2012;Accidente de transporte;0;mujer;1043
+2012;Homicidio;1;hombre;12444
+2012;Suicidio;0;mujer;305
+2014;Accidental;1;hombre;1748
+2014;Accidental;0;mujer;415
+2014;Accidente de transporte;1;hombre;4569
+2014;Accidente de transporte;0;mujer;1107
+2014;Homicidio;1;hombre;9780
+2014;Homicidio;0;mujer;946
+2014;Suicidio;1;hombre;1226
+2014;Suicidio;0;mujer;286
+2015;Accidental;1;hombre;1920
+2015;Accidental;0;mujer;446
+2015;Accidente de transporte;1;hombre;5092
+2015;Accidente de transporte;0;mujer;1170
+2015;Homicidio;1;hombre;9457
+2015;Homicidio;0;mujer;848
+2015;Suicidio;1;hombre;1444
+2015;Suicidio;0;mujer;368
+2016;Accidental;1;hombre;2198
+2016;Accidental;0;mujer;518
+2016;Accidente de transporte;1;hombre;5522
+2016;Accidente de transporte;0;mujer;1280
+2016;Homicidio;1;hombre;9772
+2016;Homicidio;0;mujer;902
+2016;Suicidio;1;hombre;1685
+2016;Suicidio;0;mujer;371
+2017;Accidental;1;hombre;2572
+2017;Accidental;0;mujer;722
+2017;Accidente de transporte;1;hombre;5291
+2017;Accidente de transporte;0;mujer;1208
+2017;Homicidio;1;hombre;9928
+2017;Homicidio;0;mujer;940
+2017;Suicidio;1;hombre;1965
+2017;Suicidio;0;mujer;437
+2018;Accidental;1;hombre;2353
+2018;Accidental;0;mujer;520
+2018;Accidente de transporte;1;hombre;5243
+2018;Accidente de transporte;0;mujer;1251
+2018;Homicidio;1;hombre;10337
+2018;Homicidio;0;mujer;960
+2018;Suicidio;1;hombre;2026
+2018;Suicidio;0;mujer;438
+2019;Accidental;1;hombre;184
+2019;Accidental;0;mujer;28
+2019;Eventos de transporte;1;hombre;319
+2019;Eventos de transporte;0;mujer;74
+2019;Homicidio;1;hombre;803
+2019;Homicidio;0;mujer;63
+2019;Suicidio;1;hombre;154
+2019;Suicidio;0;mujer;40
+2020;Accidental;1;hombre;194
+2020;Accidental;0;mujer;44
+2020;Eventos de transporte;1;hombre;377
+2020;Eventos de transporte;0;mujer;101
+2020;Homicidio;1;hombre;749
+2020;Homicidio;0;mujer;71
+2020;Suicidio;1;hombre;145
+2020;Suicidio;0;mujer;33
