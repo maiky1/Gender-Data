@@ -1,0 +1,481 @@
+year;dpto;nom_dpto;nom_ciu;sexo;horas
+2010;5;Antioquia;Medellin;hombre;50.222534
+2010;5;Antioquia;Medellin;mujer;40.826458
+2010;8;Atlantico;Barranquilla;hombre;51.555813
+2010;8;Atlantico;Barranquilla;mujer;41.448689
+2010;11;Bogota;Bogota;hombre;51.704445
+2010;11;Bogota;Bogota;mujer;43.92868
+2010;13;Bolivar;Cartagena;hombre;49.479542
+2010;13;Bolivar;Cartagena;mujer;41.828602
+2010;15;Boyaca;Tunja;hombre;44.737885
+2010;15;Boyaca;Tunja;mujer;36.759983
+2010;17;Caldas;Manizales;hombre;50.769623
+2010;17;Caldas;Manizales;mujer;41.693432
+2010;18;Caqueta;Florencia;hombre;50.233696
+2010;18;Caqueta;Florencia;mujer;43.174633
+2010;19;Cauca;Popayan;hombre;41.273258
+2010;19;Cauca;Popayan;mujer;38.777264
+2010;20;Cesar;Valledupar;hombre;51.904263
+2010;20;Cesar;Valledupar;mujer;41.703384
+2010;23;Cordoba;Monteria;hombre;45.034157
+2010;23;Cordoba;Monteria;mujer;37.528885
+2010;25;Cundinamarca;Cundinamarca;hombre;48.128513
+2010;25;Cundinamarca;Cundinamarca;mujer;38.557186
+2010;27;Choco;Quibdo;hombre;48.042728
+2010;27;Choco;Quibdo;mujer;43.73354
+2010;41;Huila;Neiva;hombre;45.883408
+2010;41;Huila;Neiva;mujer;38.837494
+2010;44;La Guajira;Riohacha;hombre;47.457767
+2010;44;La Guajira;Riohacha;mujer;36.953804
+2010;47;Magdalena;Santa Marta;hombre;53.4972
+2010;47;Magdalena;Santa Marta;mujer;40.57032
+2010;50;Meta;Villavicencio;hombre;52.792984
+2010;50;Meta;Villavicencio;mujer;43.409176
+2010;52;Nariño;Pasto;hombre;44.156128
+2010;52;Nariño;Pasto;mujer;38.923481
+2010;54;Norte de Santander;Cucuta;hombre;49.230354
+2010;54;Norte de Santander;Cucuta;mujer;42.290386
+2010;63;Quindio;Armenia;hombre;50.723022
+2010;63;Quindio;Armenia;mujer;42.745739
+2010;66;Risaralda;Pereira;hombre;50.945099
+2010;66;Risaralda;Pereira;mujer;40.751675
+2010;68;Santander;Bucaramanga;hombre;49.01807
+2010;68;Santander;Bucaramanga;mujer;40.743645
+2010;70;Sucre;Sincelejo;hombre;47.798756
+2010;70;Sucre;Sincelejo;mujer;38.336796
+2010;73;Tolima;Ibague;hombre;47.788322
+2010;73;Tolima;Ibague;mujer;38.529678
+2010;76;Valle del Cauca;Cali;hombre;50.554924
+2010;76;Valle del Cauca;Cali;mujer;39.437904
+2011;5;Antioquia;Medellin;hombre;49.589222
+2011;5;Antioquia;Medellin;mujer;40.798668
+2011;8;Atlantico;Barranquilla;hombre;51.073364
+2011;8;Atlantico;Barranquilla;mujer;40.305832
+2011;11;Bogota;Bogota;hombre;50.895523
+2011;11;Bogota;Bogota;mujer;43.058468
+2011;13;Bolivar;Cartagena;hombre;47.972958
+2011;13;Bolivar;Cartagena;mujer;39.263813
+2011;15;Boyaca;Tunja;hombre;44.204967
+2011;15;Boyaca;Tunja;mujer;35.158993
+2011;17;Caldas;Manizales;hombre;51.985596
+2011;17;Caldas;Manizales;mujer;43.37923
+2011;18;Caqueta;Florencia;hombre;50.507671
+2011;18;Caqueta;Florencia;mujer;42.543228
+2011;19;Cauca;Popayan;hombre;41.593658
+2011;19;Cauca;Popayan;mujer;37.448406
+2011;20;Cesar;Valledupar;hombre;52.436195
+2011;20;Cesar;Valledupar;mujer;40.312744
+2011;23;Cordoba;Monteria;hombre;44.922009
+2011;23;Cordoba;Monteria;mujer;36.752949
+2011;25;Cundinamarca;Cundinamarca;hombre;48.240936
+2011;25;Cundinamarca;Cundinamarca;mujer;38.443081
+2011;27;Choco;Quibdo;hombre;47.409264
+2011;27;Choco;Quibdo;mujer;43.173649
+2011;41;Huila;Neiva;hombre;45.805477
+2011;41;Huila;Neiva;mujer;39.102661
+2011;44;La Guajira;Riohacha;hombre;47.261105
+2011;44;La Guajira;Riohacha;mujer;36.948959
+2011;47;Magdalena;Santa Marta;hombre;53.884689
+2011;47;Magdalena;Santa Marta;mujer;38.729523
+2011;50;Meta;Villavicencio;hombre;52.009895
+2011;50;Meta;Villavicencio;mujer;43.968216
+2011;52;Nariño;Pasto;hombre;43.143082
+2011;52;Nariño;Pasto;mujer;35.310959
+2011;54;Norte de Santander;Cucuta;hombre;49.97876
+2011;54;Norte de Santander;Cucuta;mujer;40.876472
+2011;63;Quindio;Armenia;hombre;52.046352
+2011;63;Quindio;Armenia;mujer;42.804688
+2011;66;Risaralda;Pereira;hombre;50.15556
+2011;66;Risaralda;Pereira;mujer;40.357304
+2011;68;Santander;Bucaramanga;hombre;48.582134
+2011;68;Santander;Bucaramanga;mujer;39.948826
+2011;70;Sucre;Sincelejo;hombre;46.247471
+2011;70;Sucre;Sincelejo;mujer;36.641403
+2011;73;Tolima;Ibague;hombre;46.766594
+2011;73;Tolima;Ibague;mujer;37.029461
+2011;76;Valle del Cauca;Cali;hombre;50.840908
+2011;76;Valle del Cauca;Cali;mujer;40.210461
+2012;5;Antioquia;Medellin;hombre;49.756416
+2012;5;Antioquia;Medellin;mujer;41.105923
+2012;8;Atlantico;Barranquilla;hombre;51.252308
+2012;8;Atlantico;Barranquilla;mujer;40.163612
+2012;11;Bogota;Bogota;hombre;50.944942
+2012;11;Bogota;Bogota;mujer;42.925358
+2012;13;Bolivar;Cartagena;hombre;47.119633
+2012;13;Bolivar;Cartagena;mujer;38.254608
+2012;15;Boyaca;Tunja;hombre;45.450031
+2012;15;Boyaca;Tunja;mujer;36.543476
+2012;17;Caldas;Manizales;hombre;50.771301
+2012;17;Caldas;Manizales;mujer;41.527805
+2012;18;Caqueta;Florencia;hombre;50.809593
+2012;18;Caqueta;Florencia;mujer;40.644611
+2012;19;Cauca;Popayan;hombre;41.330177
+2012;19;Cauca;Popayan;mujer;37.467243
+2012;20;Cesar;Valledupar;hombre;51.952461
+2012;20;Cesar;Valledupar;mujer;40.252327
+2012;23;Cordoba;Monteria;hombre;45.058598
+2012;23;Cordoba;Monteria;mujer;35.663982
+2012;25;Cundinamarca;Cundinamarca;hombre;47.595882
+2012;25;Cundinamarca;Cundinamarca;mujer;37.851547
+2012;27;Choco;Quibdo;hombre;44.840557
+2012;27;Choco;Quibdo;mujer;41.796253
+2012;41;Huila;Neiva;hombre;44.448647
+2012;41;Huila;Neiva;mujer;36.352665
+2012;44;La Guajira;Riohacha;hombre;47.352314
+2012;44;La Guajira;Riohacha;mujer;34.915569
+2012;47;Magdalena;Santa Marta;hombre;51.942215
+2012;47;Magdalena;Santa Marta;mujer;36.854824
+2012;50;Meta;Villavicencio;hombre;52.263973
+2012;50;Meta;Villavicencio;mujer;44.294804
+2012;52;Nariño;Pasto;hombre;43.677242
+2012;52;Nariño;Pasto;mujer;35.994499
+2012;54;Norte de Santander;Cucuta;hombre;49.535374
+2012;54;Norte de Santander;Cucuta;mujer;39.307922
+2012;63;Quindio;Armenia;hombre;51.324215
+2012;63;Quindio;Armenia;mujer;39.856495
+2012;66;Risaralda;Pereira;hombre;50.137043
+2012;66;Risaralda;Pereira;mujer;41.347675
+2012;68;Santander;Bucaramanga;hombre;49.050495
+2012;68;Santander;Bucaramanga;mujer;39.258179
+2012;70;Sucre;Sincelejo;hombre;46.874699
+2012;70;Sucre;Sincelejo;mujer;33.989956
+2012;73;Tolima;Ibague;hombre;45.600796
+2012;73;Tolima;Ibague;mujer;35.308189
+2012;76;Valle del Cauca;Cali;hombre;49.559174
+2012;76;Valle del Cauca;Cali;mujer;40.06691
+2013;5;Antioquia;Medellin;hombre;48.896015
+2013;5;Antioquia;Medellin;mujer;40.0448
+2013;8;Atlantico;Barranquilla;hombre;51.31987
+2013;8;Atlantico;Barranquilla;mujer;40.265968
+2013;11;Bogota;Bogota;hombre;50.983807
+2013;11;Bogota;Bogota;mujer;42.830276
+2013;13;Bolivar;Cartagena;hombre;47.345852
+2013;13;Bolivar;Cartagena;mujer;38.856857
+2013;15;Boyaca;Tunja;hombre;46.788715
+2013;15;Boyaca;Tunja;mujer;37.006767
+2013;17;Caldas;Manizales;hombre;51.053101
+2013;17;Caldas;Manizales;mujer;42.073956
+2013;18;Caqueta;Florencia;hombre;50.025288
+2013;18;Caqueta;Florencia;mujer;42.468979
+2013;19;Cauca;Popayan;hombre;41.588017
+2013;19;Cauca;Popayan;mujer;37.188953
+2013;20;Cesar;Valledupar;hombre;52.170746
+2013;20;Cesar;Valledupar;mujer;41.763821
+2013;23;Cordoba;Monteria;hombre;44.03054
+2013;23;Cordoba;Monteria;mujer;34.489811
+2013;25;Cundinamarca;Cundinamarca;hombre;48.298134
+2013;25;Cundinamarca;Cundinamarca;mujer;37.451515
+2013;27;Choco;Quibdo;hombre;48.185135
+2013;27;Choco;Quibdo;mujer;41.040234
+2013;41;Huila;Neiva;hombre;45.628696
+2013;41;Huila;Neiva;mujer;35.280926
+2013;44;La Guajira;Riohacha;hombre;47.640774
+2013;44;La Guajira;Riohacha;mujer;35.736084
+2013;47;Magdalena;Santa Marta;hombre;51.028023
+2013;47;Magdalena;Santa Marta;mujer;37.341255
+2013;50;Meta;Villavicencio;hombre;53.355213
+2013;50;Meta;Villavicencio;mujer;44.118649
+2013;52;Nariño;Pasto;hombre;43.052605
+2013;52;Nariño;Pasto;mujer;34.894043
+2013;54;Norte de Santander;Cucuta;hombre;49.165848
+2013;54;Norte de Santander;Cucuta;mujer;40.009861
+2013;63;Quindio;Armenia;hombre;50.171967
+2013;63;Quindio;Armenia;mujer;38.26403
+2013;66;Risaralda;Pereira;hombre;50.855263
+2013;66;Risaralda;Pereira;mujer;41.698601
+2013;68;Santander;Bucaramanga;hombre;48.271076
+2013;68;Santander;Bucaramanga;mujer;39.510693
+2013;70;Sucre;Sincelejo;hombre;46.976845
+2013;70;Sucre;Sincelejo;mujer;34.402252
+2013;73;Tolima;Ibague;hombre;47.192425
+2013;73;Tolima;Ibague;mujer;36.825768
+2013;76;Valle del Cauca;Cali;hombre;49.021538
+2013;76;Valle del Cauca;Cali;mujer;38.964958
+2014;5;Antioquia;Medellin;hombre;49.243065
+2014;5;Antioquia;Medellin;mujer;40.708626
+2014;8;Atlantico;Barranquilla;hombre;51.401581
+2014;8;Atlantico;Barranquilla;mujer;40.159023
+2014;11;Bogota;Bogota;hombre;50.310448
+2014;11;Bogota;Bogota;mujer;42.968109
+2014;13;Bolivar;Cartagena;hombre;46.255135
+2014;13;Bolivar;Cartagena;mujer;38.779831
+2014;15;Boyaca;Tunja;hombre;45.190639
+2014;15;Boyaca;Tunja;mujer;36.760456
+2014;17;Caldas;Manizales;hombre;50.415745
+2014;17;Caldas;Manizales;mujer;41.817551
+2014;18;Caqueta;Florencia;hombre;48.985802
+2014;18;Caqueta;Florencia;mujer;42.022636
+2014;19;Cauca;Popayan;hombre;40.438892
+2014;19;Cauca;Popayan;mujer;37.227989
+2014;20;Cesar;Valledupar;hombre;50.616142
+2014;20;Cesar;Valledupar;mujer;40.683823
+2014;23;Cordoba;Monteria;hombre;41.358631
+2014;23;Cordoba;Monteria;mujer;32.593803
+2014;25;Cundinamarca;Cundinamarca;hombre;47.979412
+2014;25;Cundinamarca;Cundinamarca;mujer;38.885742
+2014;27;Choco;Quibdo;hombre;42.89743
+2014;27;Choco;Quibdo;mujer;39.004395
+2014;41;Huila;Neiva;hombre;46.820385
+2014;41;Huila;Neiva;mujer;37.753536
+2014;44;La Guajira;Riohacha;hombre;47.897255
+2014;44;La Guajira;Riohacha;mujer;35.848476
+2014;47;Magdalena;Santa Marta;hombre;50.166767
+2014;47;Magdalena;Santa Marta;mujer;37.945385
+2014;50;Meta;Villavicencio;hombre;52.804878
+2014;50;Meta;Villavicencio;mujer;44.012314
+2014;52;Nariño;Pasto;hombre;43.192078
+2014;52;Nariño;Pasto;mujer;34.985386
+2014;54;Norte de Santander;Cucuta;hombre;48.412411
+2014;54;Norte de Santander;Cucuta;mujer;39.407375
+2014;63;Quindio;Armenia;hombre;51.199211
+2014;63;Quindio;Armenia;mujer;38.445957
+2014;66;Risaralda;Pereira;hombre;51.235619
+2014;66;Risaralda;Pereira;mujer;42.940422
+2014;68;Santander;Bucaramanga;hombre;48.680611
+2014;68;Santander;Bucaramanga;mujer;39.727009
+2014;70;Sucre;Sincelejo;hombre;47.246109
+2014;70;Sucre;Sincelejo;mujer;35.641399
+2014;73;Tolima;Ibague;hombre;47.478024
+2014;73;Tolima;Ibague;mujer;36.542149
+2014;76;Valle del Cauca;Cali;hombre;49.294212
+2014;76;Valle del Cauca;Cali;mujer;39.39724
+2015;5;Antioquia;Medellin;hombre;48.955959
+2015;5;Antioquia;Medellin;mujer;41.980228
+2015;8;Atlantico;Barranquilla;hombre;51.053516
+2015;8;Atlantico;Barranquilla;mujer;38.606518
+2015;11;Bogota;Bogota;hombre;50.293163
+2015;11;Bogota;Bogota;mujer;43.216667
+2015;13;Bolivar;Cartagena;hombre;45.410191
+2015;13;Bolivar;Cartagena;mujer;36.881779
+2015;15;Boyaca;Tunja;hombre;45.444202
+2015;15;Boyaca;Tunja;mujer;36.10479
+2015;17;Caldas;Manizales;hombre;50.781418
+2015;17;Caldas;Manizales;mujer;41.165756
+2015;18;Caqueta;Florencia;hombre;48.883366
+2015;18;Caqueta;Florencia;mujer;41.280537
+2015;19;Cauca;Popayan;hombre;40.805996
+2015;19;Cauca;Popayan;mujer;35.926613
+2015;20;Cesar;Valledupar;hombre;50.629292
+2015;20;Cesar;Valledupar;mujer;41.009323
+2015;23;Cordoba;Monteria;hombre;41.676151
+2015;23;Cordoba;Monteria;mujer;32.929317
+2015;25;Cundinamarca;Cundinamarca;hombre;46.961506
+2015;25;Cundinamarca;Cundinamarca;mujer;38.274895
+2015;27;Choco;Quibdo;hombre;46.538841
+2015;27;Choco;Quibdo;mujer;41.967308
+2015;41;Huila;Neiva;hombre;46.174637
+2015;41;Huila;Neiva;mujer;36.641666
+2015;44;La Guajira;Riohacha;hombre;44.969673
+2015;44;La Guajira;Riohacha;mujer;34.34877
+2015;47;Magdalena;Santa Marta;hombre;49.479576
+2015;47;Magdalena;Santa Marta;mujer;36.677151
+2015;50;Meta;Villavicencio;hombre;52.78244
+2015;50;Meta;Villavicencio;mujer;43.097977
+2015;52;Nariño;Pasto;hombre;43.393364
+2015;52;Nariño;Pasto;mujer;34.722591
+2015;54;Norte de Santander;Cucuta;hombre;48.880547
+2015;54;Norte de Santander;Cucuta;mujer;39.395317
+2015;63;Quindio;Armenia;hombre;50.654018
+2015;63;Quindio;Armenia;mujer;39.646313
+2015;66;Risaralda;Pereira;hombre;51.246193
+2015;66;Risaralda;Pereira;mujer;42.322731
+2015;68;Santander;Bucaramanga;hombre;48.736237
+2015;68;Santander;Bucaramanga;mujer;39.653816
+2015;70;Sucre;Sincelejo;hombre;46.963322
+2015;70;Sucre;Sincelejo;mujer;34.926014
+2015;73;Tolima;Ibague;hombre;47.890587
+2015;73;Tolima;Ibague;mujer;36.789616
+2015;76;Valle del Cauca;Cali;hombre;48.238995
+2015;76;Valle del Cauca;Cali;mujer;38.435066
+2016;5;Antioquia;Medellin;hombre;48.881969
+2016;5;Antioquia;Medellin;mujer;42.322971
+2016;8;Atlantico;Barranquilla;hombre;50.227955
+2016;8;Atlantico;Barranquilla;mujer;38.298309
+2016;11;Bogota;Bogota;hombre;49.95187
+2016;11;Bogota;Bogota;mujer;42.82008
+2016;13;Bolivar;Cartagena;hombre;46.419476
+2016;13;Bolivar;Cartagena;mujer;37.636574
+2016;15;Boyaca;Tunja;hombre;45.021503
+2016;15;Boyaca;Tunja;mujer;36.355221
+2016;17;Caldas;Manizales;hombre;50.337791
+2016;17;Caldas;Manizales;mujer;41.731216
+2016;18;Caqueta;Florencia;hombre;46.49905
+2016;18;Caqueta;Florencia;mujer;37.231979
+2016;19;Cauca;Popayan;hombre;40.509541
+2016;19;Cauca;Popayan;mujer;34.460667
+2016;20;Cesar;Valledupar;hombre;49.053352
+2016;20;Cesar;Valledupar;mujer;40.174831
+2016;23;Cordoba;Monteria;hombre;45.811306
+2016;23;Cordoba;Monteria;mujer;37.045353
+2016;25;Cundinamarca;Cundinamarca;hombre;48.231106
+2016;25;Cundinamarca;Cundinamarca;mujer;39.132336
+2016;27;Choco;Quibdo;hombre;45.430737
+2016;27;Choco;Quibdo;mujer;40.610943
+2016;41;Huila;Neiva;hombre;46.427227
+2016;41;Huila;Neiva;mujer;38.110195
+2016;44;La Guajira;Riohacha;hombre;47.165546
+2016;44;La Guajira;Riohacha;mujer;35.334076
+2016;47;Magdalena;Santa Marta;hombre;48.712402
+2016;47;Magdalena;Santa Marta;mujer;36.372166
+2016;50;Meta;Villavicencio;hombre;52.050488
+2016;50;Meta;Villavicencio;mujer;43.785759
+2016;52;Nariño;Pasto;hombre;43.083378
+2016;52;Nariño;Pasto;mujer;33.90588
+2016;54;Norte de Santander;Cucuta;hombre;50.375004
+2016;54;Norte de Santander;Cucuta;mujer;40.522999
+2016;63;Quindio;Armenia;hombre;50.188267
+2016;63;Quindio;Armenia;mujer;37.749706
+2016;66;Risaralda;Pereira;hombre;50.377979
+2016;66;Risaralda;Pereira;mujer;41.65823
+2016;68;Santander;Bucaramanga;hombre;48.321537
+2016;68;Santander;Bucaramanga;mujer;39.14027
+2016;70;Sucre;Sincelejo;hombre;46.435608
+2016;70;Sucre;Sincelejo;mujer;33.902428
+2016;73;Tolima;Ibague;hombre;47.381268
+2016;73;Tolima;Ibague;mujer;36.337418
+2016;76;Valle del Cauca;Cali;hombre;48.468639
+2016;76;Valle del Cauca;Cali;mujer;38.32037
+2017;5;Antioquia;Medellin;hombre;48.47274
+2017;5;Antioquia;Medellin;mujer;41.265079
+2017;8;Atlantico;Barranquilla;hombre;49.882198
+2017;8;Atlantico;Barranquilla;mujer;38.648594
+2017;11;Bogota;Bogota;hombre;49.594894
+2017;11;Bogota;Bogota;mujer;43.73489
+2017;13;Bolivar;Cartagena;hombre;46.527283
+2017;13;Bolivar;Cartagena;mujer;36.788593
+2017;15;Boyaca;Tunja;hombre;45.703247
+2017;15;Boyaca;Tunja;mujer;37.369144
+2017;17;Caldas;Manizales;hombre;48.832508
+2017;17;Caldas;Manizales;mujer;40.047306
+2017;18;Caqueta;Florencia;hombre;47.902191
+2017;18;Caqueta;Florencia;mujer;39.080624
+2017;19;Cauca;Popayan;hombre;40.098778
+2017;19;Cauca;Popayan;mujer;35.532314
+2017;20;Cesar;Valledupar;hombre;48.39637
+2017;20;Cesar;Valledupar;mujer;37.432289
+2017;23;Cordoba;Monteria;hombre;43.815933
+2017;23;Cordoba;Monteria;mujer;35.188599
+2017;25;Cundinamarca;Cundinamarca;hombre;48.787571
+2017;25;Cundinamarca;Cundinamarca;mujer;39.28442
+2017;27;Choco;Quibdo;hombre;45.927433
+2017;27;Choco;Quibdo;mujer;40.730385
+2017;41;Huila;Neiva;hombre;44.948429
+2017;41;Huila;Neiva;mujer;36.953678
+2017;44;La Guajira;Riohacha;hombre;46.516777
+2017;44;La Guajira;Riohacha;mujer;36.054741
+2017;47;Magdalena;Santa Marta;hombre;48.047688
+2017;47;Magdalena;Santa Marta;mujer;36.94902
+2017;50;Meta;Villavicencio;hombre;51.42952
+2017;50;Meta;Villavicencio;mujer;43.197903
+2017;52;Nariño;Pasto;hombre;42.194534
+2017;52;Nariño;Pasto;mujer;32.480572
+2017;54;Norte de Santander;Cucuta;hombre;51.53611
+2017;54;Norte de Santander;Cucuta;mujer;40.185005
+2017;63;Quindio;Armenia;hombre;49.809204
+2017;63;Quindio;Armenia;mujer;38.494148
+2017;66;Risaralda;Pereira;hombre;49.684921
+2017;66;Risaralda;Pereira;mujer;42.036991
+2017;68;Santander;Bucaramanga;hombre;48.483028
+2017;68;Santander;Bucaramanga;mujer;39.602993
+2017;70;Sucre;Sincelejo;hombre;45.319984
+2017;70;Sucre;Sincelejo;mujer;33.626503
+2017;73;Tolima;Ibague;hombre;46.630741
+2017;73;Tolima;Ibague;mujer;35.54393
+2017;76;Valle del Cauca;Cali;hombre;47.643105
+2017;76;Valle del Cauca;Cali;mujer;38.871521
+2018;5;Antioquia;Medellin;hombre;48.493114
+2018;5;Antioquia;Medellin;mujer;41.236877
+2018;8;Atlantico;Barranquilla;hombre;49.173897
+2018;8;Atlantico;Barranquilla;mujer;38.84639
+2018;11;Bogota;Bogota;hombre;49.774612
+2018;11;Bogota;Bogota;mujer;43.917362
+2018;13;Bolivar;Cartagena;hombre;46.214134
+2018;13;Bolivar;Cartagena;mujer;35.6129
+2018;15;Boyaca;Tunja;hombre;45.623966
+2018;15;Boyaca;Tunja;mujer;36.613316
+2018;17;Caldas;Manizales;hombre;50.05513
+2018;17;Caldas;Manizales;mujer;39.500885
+2018;18;Caqueta;Florencia;hombre;47.323345
+2018;18;Caqueta;Florencia;mujer;38.391533
+2018;19;Cauca;Popayan;hombre;40.625122
+2018;19;Cauca;Popayan;mujer;35.63427
+2018;20;Cesar;Valledupar;hombre;47.423336
+2018;20;Cesar;Valledupar;mujer;37.961739
+2018;23;Cordoba;Monteria;hombre;44.744209
+2018;23;Cordoba;Monteria;mujer;35.115398
+2018;25;Cundinamarca;Cundinamarca;hombre;48.504623
+2018;25;Cundinamarca;Cundinamarca;mujer;40.156372
+2018;27;Choco;Quibdo;hombre;44.814087
+2018;27;Choco;Quibdo;mujer;38.688831
+2018;41;Huila;Neiva;hombre;43.390903
+2018;41;Huila;Neiva;mujer;38.592148
+2018;44;La Guajira;Riohacha;hombre;47.807583
+2018;44;La Guajira;Riohacha;mujer;37.270714
+2018;47;Magdalena;Santa Marta;hombre;48.855965
+2018;47;Magdalena;Santa Marta;mujer;37.35416
+2018;50;Meta;Villavicencio;hombre;50.848572
+2018;50;Meta;Villavicencio;mujer;42.707951
+2018;52;Nariño;Pasto;hombre;41.805702
+2018;52;Nariño;Pasto;mujer;33.466946
+2018;54;Norte de Santander;Cucuta;hombre;51.336922
+2018;54;Norte de Santander;Cucuta;mujer;40.420677
+2018;63;Quindio;Armenia;hombre;48.986099
+2018;63;Quindio;Armenia;mujer;36.915474
+2018;66;Risaralda;Pereira;hombre;48.90147
+2018;66;Risaralda;Pereira;mujer;40.93858
+2018;68;Santander;Bucaramanga;hombre;47.948288
+2018;68;Santander;Bucaramanga;mujer;38.175491
+2018;70;Sucre;Sincelejo;hombre;44.086872
+2018;70;Sucre;Sincelejo;mujer;33.335762
+2018;73;Tolima;Ibague;hombre;45.737671
+2018;73;Tolima;Ibague;mujer;37.796761
+2018;76;Valle del Cauca;Cali;hombre;47.87281
+2018;76;Valle del Cauca;Cali;mujer;39.119484
+2019;5;Antioquia;Medellin;hombre;47.829266
+2019;5;Antioquia;Medellin;mujer;41.533333
+2019;8;Atlantico;Barranquilla;hombre;50.109547
+2019;8;Atlantico;Barranquilla;mujer;38.403706
+2019;11;Bogota;Bogota;hombre;49.757912
+2019;11;Bogota;Bogota;mujer;43.435432
+2019;13;Bolivar;Cartagena;hombre;44.999798
+2019;13;Bolivar;Cartagena;mujer;34.858551
+2019;15;Boyaca;Tunja;hombre;44.247604
+2019;15;Boyaca;Tunja;mujer;36.619987
+2019;17;Caldas;Manizales;hombre;49.529758
+2019;17;Caldas;Manizales;mujer;40.12056
+2019;18;Caqueta;Florencia;hombre;45.883301
+2019;18;Caqueta;Florencia;mujer;38.002392
+2019;19;Cauca;Popayan;hombre;40.604347
+2019;19;Cauca;Popayan;mujer;35.001148
+2019;20;Cesar;Valledupar;hombre;49.623333
+2019;20;Cesar;Valledupar;mujer;39.604237
+2019;23;Cordoba;Monteria;hombre;46.234844
+2019;23;Cordoba;Monteria;mujer;33.743858
+2019;25;Cundinamarca;Cundinamarca;hombre;47.704304
+2019;25;Cundinamarca;Cundinamarca;mujer;39.864689
+2019;27;Choco;Quibdo;hombre;47.169769
+2019;27;Choco;Quibdo;mujer;41.598637
+2019;41;Huila;Neiva;hombre;44.335304
+2019;41;Huila;Neiva;mujer;37.018398
+2019;44;La Guajira;Riohacha;hombre;48.111107
+2019;44;La Guajira;Riohacha;mujer;37.144909
+2019;47;Magdalena;Santa Marta;hombre;48.358818
+2019;47;Magdalena;Santa Marta;mujer;37.481892
+2019;50;Meta;Villavicencio;hombre;51.090233
+2019;50;Meta;Villavicencio;mujer;43.35841
+2019;52;Nariño;Pasto;hombre;40.133606
+2019;52;Nariño;Pasto;mujer;32.709587
+2019;54;Norte de Santander;Cucuta;hombre;50.896999
+2019;54;Norte de Santander;Cucuta;mujer;41.121094
+2019;63;Quindio;Armenia;hombre;48.579853
+2019;63;Quindio;Armenia;mujer;37.335339
+2019;66;Risaralda;Pereira;hombre;49.784527
+2019;66;Risaralda;Pereira;mujer;40.959064
+2019;68;Santander;Bucaramanga;hombre;47.211666
+2019;68;Santander;Bucaramanga;mujer;38.25692
+2019;70;Sucre;Sincelejo;hombre;44.477867
+2019;70;Sucre;Sincelejo;mujer;32.716129
+2019;73;Tolima;Ibague;hombre;48.904221
+2019;73;Tolima;Ibague;mujer;40.493378
+2019;76;Valle del Cauca;Cali;hombre;48.535973
+2019;76;Valle del Cauca;Cali;mujer;38.701782
