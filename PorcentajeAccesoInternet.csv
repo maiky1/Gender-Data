@@ -1,0 +1,481 @@
+year;dpto;nom_dpto;nom_ciu;sexo;internet
+2010;5;Antioquia;Medellin;hombre;0.27700788
+2010;5;Antioquia;Medellin;mujer;0.29411605
+2010;8;Atlantico;Barranquilla;hombre;0.2087426
+2010;8;Atlantico;Barranquilla;mujer;0.22404855
+2010;11;Bogota;Bogota;hombre;0.39828902
+2010;11;Bogota;Bogota;mujer;0.40169713
+2010;13;Bolivar;Cartagena;hombre;0.12233093
+2010;13;Bolivar;Cartagena;mujer;0.14519642
+2010;15;Boyaca;Tunja;hombre;0.087886803
+2010;15;Boyaca;Tunja;mujer;0.086241476
+2010;17;Caldas;Manizales;hombre;0.17794716
+2010;17;Caldas;Manizales;mujer;0.19340539
+2010;18;Caqueta;Florencia;hombre;0.054490563
+2010;18;Caqueta;Florencia;mujer;0.061260544
+2010;19;Cauca;Popayan;hombre;0.074850515
+2010;19;Cauca;Popayan;mujer;0.076966852
+2010;20;Cesar;Valledupar;hombre;0.086353488
+2010;20;Cesar;Valledupar;mujer;0.10439474
+2010;23;Cordoba;Monteria;hombre;0.080968
+2010;23;Cordoba;Monteria;mujer;0.090324305
+2010;25;Cundinamarca;Cundinamarca;hombre;0.13653098
+2010;25;Cundinamarca;Cundinamarca;mujer;0.15642253
+2010;27;Choco;Quibdo;hombre;0.033841718
+2010;27;Choco;Quibdo;mujer;0.037818477
+2010;41;Huila;Neiva;hombre;0.14673255
+2010;41;Huila;Neiva;mujer;0.15611912
+2010;44;La Guajira;Riohacha;hombre;0.065157175
+2010;44;La Guajira;Riohacha;mujer;0.067321688
+2010;47;Magdalena;Santa Marta;hombre;0.09730649
+2010;47;Magdalena;Santa Marta;mujer;0.11750847
+2010;50;Meta;Villavicencio;hombre;0.11724161
+2010;50;Meta;Villavicencio;mujer;0.13682014
+2010;52;Nariño;Pasto;hombre;0.053552676
+2010;52;Nariño;Pasto;mujer;0.057814416
+2010;54;Norte de Santander;Cucuta;hombre;0.12669641
+2010;54;Norte de Santander;Cucuta;mujer;0.14026105
+2010;63;Quindio;Armenia;hombre;0.16581753
+2010;63;Quindio;Armenia;mujer;0.17913562
+2010;66;Risaralda;Pereira;hombre;0.20332102
+2010;66;Risaralda;Pereira;mujer;0.21593
+2010;68;Santander;Bucaramanga;hombre;0.25552806
+2010;68;Santander;Bucaramanga;mujer;0.26435578
+2010;70;Sucre;Sincelejo;hombre;0.059358813
+2010;70;Sucre;Sincelejo;mujer;0.070973359
+2010;73;Tolima;Ibague;hombre;0.13824028
+2010;73;Tolima;Ibague;mujer;0.15891291
+2010;76;Valle del Cauca;Cali;hombre;0.22046643
+2010;76;Valle del Cauca;Cali;mujer;0.2261903
+2011;5;Antioquia;Medellin;hombre;0.31497183
+2011;5;Antioquia;Medellin;mujer;0.33775026
+2011;8;Atlantico;Barranquilla;hombre;0.23273975
+2011;8;Atlantico;Barranquilla;mujer;0.25366837
+2011;11;Bogota;Bogota;hombre;0.42628515
+2011;11;Bogota;Bogota;mujer;0.44042623
+2011;13;Bolivar;Cartagena;hombre;0.15841751
+2011;13;Bolivar;Cartagena;mujer;0.1781818
+2011;15;Boyaca;Tunja;hombre;0.11827305
+2011;15;Boyaca;Tunja;mujer;0.11421991
+2011;17;Caldas;Manizales;hombre;0.23530459
+2011;17;Caldas;Manizales;mujer;0.24679045
+2011;18;Caqueta;Florencia;hombre;0.073551469
+2011;18;Caqueta;Florencia;mujer;0.07715746
+2011;19;Cauca;Popayan;hombre;0.081200726
+2011;19;Cauca;Popayan;mujer;0.088818222
+2011;20;Cesar;Valledupar;hombre;0.088799104
+2011;20;Cesar;Valledupar;mujer;0.10138769
+2011;23;Cordoba;Monteria;hombre;0.091503836
+2011;23;Cordoba;Monteria;mujer;0.10999184
+2011;25;Cundinamarca;Cundinamarca;hombre;0.17390497
+2011;25;Cundinamarca;Cundinamarca;mujer;0.18555695
+2011;27;Choco;Quibdo;hombre;0.049383938
+2011;27;Choco;Quibdo;mujer;0.0520848
+2011;41;Huila;Neiva;hombre;0.15622194
+2011;41;Huila;Neiva;mujer;0.1740915
+2011;44;La Guajira;Riohacha;hombre;0.072771497
+2011;44;La Guajira;Riohacha;mujer;0.087345243
+2011;47;Magdalena;Santa Marta;hombre;0.11446549
+2011;47;Magdalena;Santa Marta;mujer;0.13074316
+2011;50;Meta;Villavicencio;hombre;0.15875512
+2011;50;Meta;Villavicencio;mujer;0.17789888
+2011;52;Nariño;Pasto;hombre;0.085554413
+2011;52;Nariño;Pasto;mujer;0.085271381
+2011;54;Norte de Santander;Cucuta;hombre;0.16455548
+2011;54;Norte de Santander;Cucuta;mujer;0.17861879
+2011;63;Quindio;Armenia;hombre;0.19640301
+2011;63;Quindio;Armenia;mujer;0.20776559
+2011;66;Risaralda;Pereira;hombre;0.26345924
+2011;66;Risaralda;Pereira;mujer;0.28409973
+2011;68;Santander;Bucaramanga;hombre;0.25437978
+2011;68;Santander;Bucaramanga;mujer;0.27167392
+2011;70;Sucre;Sincelejo;hombre;0.087184109
+2011;70;Sucre;Sincelejo;mujer;0.10420883
+2011;73;Tolima;Ibague;hombre;0.17009094
+2011;73;Tolima;Ibague;mujer;0.18735953
+2011;76;Valle del Cauca;Cali;hombre;0.26881281
+2011;76;Valle del Cauca;Cali;mujer;0.28561717
+2012;5;Antioquia;Medellin;hombre;0.3569473
+2012;5;Antioquia;Medellin;mujer;0.38288364
+2012;8;Atlantico;Barranquilla;hombre;0.27474636
+2012;8;Atlantico;Barranquilla;mujer;0.29540497
+2012;11;Bogota;Bogota;hombre;0.4713437
+2012;11;Bogota;Bogota;mujer;0.48268664
+2012;13;Bolivar;Cartagena;hombre;0.180309
+2012;13;Bolivar;Cartagena;mujer;0.20548882
+2012;15;Boyaca;Tunja;hombre;0.13837853
+2012;15;Boyaca;Tunja;mujer;0.14427947
+2012;17;Caldas;Manizales;hombre;0.25051767
+2012;17;Caldas;Manizales;mujer;0.27008286
+2012;18;Caqueta;Florencia;hombre;0.076913074
+2012;18;Caqueta;Florencia;mujer;0.075963154
+2012;19;Cauca;Popayan;hombre;0.1054235
+2012;19;Cauca;Popayan;mujer;0.10133743
+2012;20;Cesar;Valledupar;hombre;0.11552279
+2012;20;Cesar;Valledupar;mujer;0.12398957
+2012;23;Cordoba;Monteria;hombre;0.11596294
+2012;23;Cordoba;Monteria;mujer;0.1349832
+2012;25;Cundinamarca;Cundinamarca;hombre;0.19311816
+2012;25;Cundinamarca;Cundinamarca;mujer;0.22414149
+2012;27;Choco;Quibdo;hombre;0.053093936
+2012;27;Choco;Quibdo;mujer;0.061085004
+2012;41;Huila;Neiva;hombre;0.17217226
+2012;41;Huila;Neiva;mujer;0.1867096
+2012;44;La Guajira;Riohacha;hombre;0.094914563
+2012;44;La Guajira;Riohacha;mujer;0.097062893
+2012;47;Magdalena;Santa Marta;hombre;0.1287062
+2012;47;Magdalena;Santa Marta;mujer;0.14107616
+2012;50;Meta;Villavicencio;hombre;0.19270624
+2012;50;Meta;Villavicencio;mujer;0.20772031
+2012;52;Nariño;Pasto;hombre;0.096035279
+2012;52;Nariño;Pasto;mujer;0.09997534
+2012;54;Norte de Santander;Cucuta;hombre;0.18118027
+2012;54;Norte de Santander;Cucuta;mujer;0.19062224
+2012;63;Quindio;Armenia;hombre;0.23634645
+2012;63;Quindio;Armenia;mujer;0.24076349
+2012;66;Risaralda;Pereira;hombre;0.28657222
+2012;66;Risaralda;Pereira;mujer;0.3027389
+2012;68;Santander;Bucaramanga;hombre;0.30929771
+2012;68;Santander;Bucaramanga;mujer;0.32773715
+2012;70;Sucre;Sincelejo;hombre;0.099407673
+2012;70;Sucre;Sincelejo;mujer;0.10980635
+2012;73;Tolima;Ibague;hombre;0.18094575
+2012;73;Tolima;Ibague;mujer;0.19802968
+2012;76;Valle del Cauca;Cali;hombre;0.315409
+2012;76;Valle del Cauca;Cali;mujer;0.33364043
+2013;5;Antioquia;Medellin;hombre;0.40599751
+2013;5;Antioquia;Medellin;mujer;0.43135419
+2013;8;Atlantico;Barranquilla;hombre;0.30694509
+2013;8;Atlantico;Barranquilla;mujer;0.33971971
+2013;11;Bogota;Bogota;hombre;0.54809815
+2013;11;Bogota;Bogota;mujer;0.56614131
+2013;13;Bolivar;Cartagena;hombre;0.21646069
+2013;13;Bolivar;Cartagena;mujer;0.23644239
+2013;15;Boyaca;Tunja;hombre;0.13184871
+2013;15;Boyaca;Tunja;mujer;0.13828894
+2013;17;Caldas;Manizales;hombre;0.28987533
+2013;17;Caldas;Manizales;mujer;0.30867624
+2013;18;Caqueta;Florencia;hombre;0.085598752
+2013;18;Caqueta;Florencia;mujer;0.091873877
+2013;19;Cauca;Popayan;hombre;0.121823
+2013;19;Cauca;Popayan;mujer;0.13414004
+2013;20;Cesar;Valledupar;hombre;0.15379953
+2013;20;Cesar;Valledupar;mujer;0.16944239
+2013;23;Cordoba;Monteria;hombre;0.13442965
+2013;23;Cordoba;Monteria;mujer;0.14739643
+2013;25;Cundinamarca;Cundinamarca;hombre;0.26300365
+2013;25;Cundinamarca;Cundinamarca;mujer;0.26704842
+2013;27;Choco;Quibdo;hombre;0.067449287
+2013;27;Choco;Quibdo;mujer;0.068452291
+2013;41;Huila;Neiva;hombre;0.19093247
+2013;41;Huila;Neiva;mujer;0.20994118
+2013;44;La Guajira;Riohacha;hombre;0.098498285
+2013;44;La Guajira;Riohacha;mujer;0.098583266
+2013;47;Magdalena;Santa Marta;hombre;0.14077128
+2013;47;Magdalena;Santa Marta;mujer;0.16251536
+2013;50;Meta;Villavicencio;hombre;0.2295111
+2013;50;Meta;Villavicencio;mujer;0.24835776
+2013;52;Nariño;Pasto;hombre;0.11478432
+2013;52;Nariño;Pasto;mujer;0.1217273
+2013;54;Norte de Santander;Cucuta;hombre;0.19916682
+2013;54;Norte de Santander;Cucuta;mujer;0.22389057
+2013;63;Quindio;Armenia;hombre;0.25523829
+2013;63;Quindio;Armenia;mujer;0.28499061
+2013;66;Risaralda;Pereira;hombre;0.317918
+2013;66;Risaralda;Pereira;mujer;0.34323618
+2013;68;Santander;Bucaramanga;hombre;0.33469877
+2013;68;Santander;Bucaramanga;mujer;0.36360681
+2013;70;Sucre;Sincelejo;hombre;0.11188626
+2013;70;Sucre;Sincelejo;mujer;0.13248795
+2013;73;Tolima;Ibague;hombre;0.23084277
+2013;73;Tolima;Ibague;mujer;0.25360242
+2013;76;Valle del Cauca;Cali;hombre;0.36928836
+2013;76;Valle del Cauca;Cali;mujer;0.38881373
+2014;5;Antioquia;Medellin;hombre;0.43242836
+2014;5;Antioquia;Medellin;mujer;0.4630608
+2014;8;Atlantico;Barranquilla;hombre;0.34659913
+2014;8;Atlantico;Barranquilla;mujer;0.36978194
+2014;11;Bogota;Bogota;hombre;0.5664556
+2014;11;Bogota;Bogota;mujer;0.57740498
+2014;13;Bolivar;Cartagena;hombre;0.23179774
+2014;13;Bolivar;Cartagena;mujer;0.25888026
+2014;15;Boyaca;Tunja;hombre;0.15666303
+2014;15;Boyaca;Tunja;mujer;0.16955246
+2014;17;Caldas;Manizales;hombre;0.28207624
+2014;17;Caldas;Manizales;mujer;0.30714253
+2014;18;Caqueta;Florencia;hombre;0.11710521
+2014;18;Caqueta;Florencia;mujer;0.11444694
+2014;19;Cauca;Popayan;hombre;0.12044325
+2014;19;Cauca;Popayan;mujer;0.133828
+2014;20;Cesar;Valledupar;hombre;0.18331318
+2014;20;Cesar;Valledupar;mujer;0.21150289
+2014;23;Cordoba;Monteria;hombre;0.16595106
+2014;23;Cordoba;Monteria;mujer;0.18034236
+2014;25;Cundinamarca;Cundinamarca;hombre;0.28032824
+2014;25;Cundinamarca;Cundinamarca;mujer;0.29045993
+2014;27;Choco;Quibdo;hombre;0.064360268
+2014;27;Choco;Quibdo;mujer;0.070642255
+2014;41;Huila;Neiva;hombre;0.21751688
+2014;41;Huila;Neiva;mujer;0.24566381
+2014;44;La Guajira;Riohacha;hombre;0.10516451
+2014;44;La Guajira;Riohacha;mujer;0.10777361
+2014;47;Magdalena;Santa Marta;hombre;0.15875149
+2014;47;Magdalena;Santa Marta;mujer;0.17371894
+2014;50;Meta;Villavicencio;hombre;0.2675952
+2014;50;Meta;Villavicencio;mujer;0.29932472
+2014;52;Nariño;Pasto;hombre;0.12941994
+2014;52;Nariño;Pasto;mujer;0.1433457
+2014;54;Norte de Santander;Cucuta;hombre;0.22625533
+2014;54;Norte de Santander;Cucuta;mujer;0.25179097
+2014;63;Quindio;Armenia;hombre;0.26902702
+2014;63;Quindio;Armenia;mujer;0.29716808
+2014;66;Risaralda;Pereira;hombre;0.36663759
+2014;66;Risaralda;Pereira;mujer;0.38572749
+2014;68;Santander;Bucaramanga;hombre;0.38999233
+2014;68;Santander;Bucaramanga;mujer;0.41648585
+2014;70;Sucre;Sincelejo;hombre;0.12883365
+2014;70;Sucre;Sincelejo;mujer;0.14500685
+2014;73;Tolima;Ibague;hombre;0.25685152
+2014;73;Tolima;Ibague;mujer;0.28270912
+2014;76;Valle del Cauca;Cali;hombre;0.39153969
+2014;76;Valle del Cauca;Cali;mujer;0.41684252
+2015;5;Antioquia;Medellin;hombre;0.4614462
+2015;5;Antioquia;Medellin;mujer;0.48656988
+2015;8;Atlantico;Barranquilla;hombre;0.36920923
+2015;8;Atlantico;Barranquilla;mujer;0.39428806
+2015;11;Bogota;Bogota;hombre;0.59933776
+2015;11;Bogota;Bogota;mujer;0.61306322
+2015;13;Bolivar;Cartagena;hombre;0.25282171
+2015;13;Bolivar;Cartagena;mujer;0.28804296
+2015;15;Boyaca;Tunja;hombre;0.22918628
+2015;15;Boyaca;Tunja;mujer;0.22605674
+2015;17;Caldas;Manizales;hombre;0.32837835
+2015;17;Caldas;Manizales;mujer;0.35698053
+2015;18;Caqueta;Florencia;hombre;0.1155091
+2015;18;Caqueta;Florencia;mujer;0.12318133
+2015;19;Cauca;Popayan;hombre;0.13116851
+2015;19;Cauca;Popayan;mujer;0.14210592
+2015;20;Cesar;Valledupar;hombre;0.18918064
+2015;20;Cesar;Valledupar;mujer;0.20651211
+2015;23;Cordoba;Monteria;hombre;0.18353157
+2015;23;Cordoba;Monteria;mujer;0.21815677
+2015;25;Cundinamarca;Cundinamarca;hombre;0.29096851
+2015;25;Cundinamarca;Cundinamarca;mujer;0.32398733
+2015;27;Choco;Quibdo;hombre;0.066864297
+2015;27;Choco;Quibdo;mujer;0.067741305
+2015;41;Huila;Neiva;hombre;0.2447755
+2015;41;Huila;Neiva;mujer;0.26206303
+2015;44;La Guajira;Riohacha;hombre;0.12249705
+2015;44;La Guajira;Riohacha;mujer;0.13126051
+2015;47;Magdalena;Santa Marta;hombre;0.15381569
+2015;47;Magdalena;Santa Marta;mujer;0.17560631
+2015;50;Meta;Villavicencio;hombre;0.32534844
+2015;50;Meta;Villavicencio;mujer;0.35672435
+2015;52;Nariño;Pasto;hombre;0.16811641
+2015;52;Nariño;Pasto;mujer;0.17634445
+2015;54;Norte de Santander;Cucuta;hombre;0.26807234
+2015;54;Norte de Santander;Cucuta;mujer;0.28776273
+2015;63;Quindio;Armenia;hombre;0.31304479
+2015;63;Quindio;Armenia;mujer;0.33809826
+2015;66;Risaralda;Pereira;hombre;0.36545467
+2015;66;Risaralda;Pereira;mujer;0.39329854
+2015;68;Santander;Bucaramanga;hombre;0.4044525
+2015;68;Santander;Bucaramanga;mujer;0.43260506
+2015;70;Sucre;Sincelejo;hombre;0.15436864
+2015;70;Sucre;Sincelejo;mujer;0.17523979
+2015;73;Tolima;Ibague;hombre;0.28223795
+2015;73;Tolima;Ibague;mujer;0.30248386
+2015;76;Valle del Cauca;Cali;hombre;0.45043072
+2015;76;Valle del Cauca;Cali;mujer;0.46824431
+2016;5;Antioquia;Medellin;hombre;0.4835045
+2016;5;Antioquia;Medellin;mujer;0.5086019
+2016;8;Atlantico;Barranquilla;hombre;0.3829166
+2016;8;Atlantico;Barranquilla;mujer;0.41020137
+2016;11;Bogota;Bogota;hombre;0.61968994
+2016;11;Bogota;Bogota;mujer;0.63629603
+2016;13;Bolivar;Cartagena;hombre;0.23337543
+2016;13;Bolivar;Cartagena;mujer;0.2625123
+2016;15;Boyaca;Tunja;hombre;0.22959962
+2016;15;Boyaca;Tunja;mujer;0.2408852
+2016;17;Caldas;Manizales;hombre;0.32415065
+2016;17;Caldas;Manizales;mujer;0.35420462
+2016;18;Caqueta;Florencia;hombre;0.13252068
+2016;18;Caqueta;Florencia;mujer;0.1362775
+2016;19;Cauca;Popayan;hombre;0.15398718
+2016;19;Cauca;Popayan;mujer;0.17165653
+2016;20;Cesar;Valledupar;hombre;0.20281842
+2016;20;Cesar;Valledupar;mujer;0.23189196
+2016;23;Cordoba;Monteria;hombre;0.17342699
+2016;23;Cordoba;Monteria;mujer;0.18318594
+2016;25;Cundinamarca;Cundinamarca;hombre;0.33151719
+2016;25;Cundinamarca;Cundinamarca;mujer;0.33585232
+2016;27;Choco;Quibdo;hombre;0.060050428
+2016;27;Choco;Quibdo;mujer;0.067549549
+2016;41;Huila;Neiva;hombre;0.2477216
+2016;41;Huila;Neiva;mujer;0.26772505
+2016;44;La Guajira;Riohacha;hombre;0.15252635
+2016;44;La Guajira;Riohacha;mujer;0.15718384
+2016;47;Magdalena;Santa Marta;hombre;0.16749175
+2016;47;Magdalena;Santa Marta;mujer;0.18520319
+2016;50;Meta;Villavicencio;hombre;0.38094234
+2016;50;Meta;Villavicencio;mujer;0.40975612
+2016;52;Nariño;Pasto;hombre;0.18372032
+2016;52;Nariño;Pasto;mujer;0.19737804
+2016;54;Norte de Santander;Cucuta;hombre;0.2637811
+2016;54;Norte de Santander;Cucuta;mujer;0.28798306
+2016;63;Quindio;Armenia;hombre;0.36061999
+2016;63;Quindio;Armenia;mujer;0.38938528
+2016;66;Risaralda;Pereira;hombre;0.37257069
+2016;66;Risaralda;Pereira;mujer;0.40423679
+2016;68;Santander;Bucaramanga;hombre;0.43199933
+2016;68;Santander;Bucaramanga;mujer;0.4528321
+2016;70;Sucre;Sincelejo;hombre;0.16228074
+2016;70;Sucre;Sincelejo;mujer;0.18084799
+2016;73;Tolima;Ibague;hombre;0.28593341
+2016;73;Tolima;Ibague;mujer;0.32478887
+2016;76;Valle del Cauca;Cali;hombre;0.48084202
+2016;76;Valle del Cauca;Cali;mujer;0.50646085
+2017;5;Antioquia;Medellin;hombre;0.51303291
+2017;5;Antioquia;Medellin;mujer;0.53559458
+2017;8;Atlantico;Barranquilla;hombre;0.39541355
+2017;8;Atlantico;Barranquilla;mujer;0.42140219
+2017;11;Bogota;Bogota;hombre;0.62667239
+2017;11;Bogota;Bogota;mujer;0.63747436
+2017;13;Bolivar;Cartagena;hombre;0.23166086
+2017;13;Bolivar;Cartagena;mujer;0.2523264
+2017;15;Boyaca;Tunja;hombre;0.24508663
+2017;15;Boyaca;Tunja;mujer;0.25425166
+2017;17;Caldas;Manizales;hombre;0.32880646
+2017;17;Caldas;Manizales;mujer;0.35770282
+2017;18;Caqueta;Florencia;hombre;0.12798223
+2017;18;Caqueta;Florencia;mujer;0.13752018
+2017;19;Cauca;Popayan;hombre;0.17451131
+2017;19;Cauca;Popayan;mujer;0.19782376
+2017;20;Cesar;Valledupar;hombre;0.21636572
+2017;20;Cesar;Valledupar;mujer;0.2461082
+2017;23;Cordoba;Monteria;hombre;0.16824001
+2017;23;Cordoba;Monteria;mujer;0.18145113
+2017;25;Cundinamarca;Cundinamarca;hombre;0.32089394
+2017;25;Cundinamarca;Cundinamarca;mujer;0.34384033
+2017;27;Choco;Quibdo;hombre;0.071616113
+2017;27;Choco;Quibdo;mujer;0.083117507
+2017;41;Huila;Neiva;hombre;0.25523773
+2017;41;Huila;Neiva;mujer;0.27486956
+2017;44;La Guajira;Riohacha;hombre;0.13244952
+2017;44;La Guajira;Riohacha;mujer;0.1488938
+2017;47;Magdalena;Santa Marta;hombre;0.1914867
+2017;47;Magdalena;Santa Marta;mujer;0.20771797
+2017;50;Meta;Villavicencio;hombre;0.40625015
+2017;50;Meta;Villavicencio;mujer;0.42840847
+2017;52;Nariño;Pasto;hombre;0.23015192
+2017;52;Nariño;Pasto;mujer;0.23757489
+2017;54;Norte de Santander;Cucuta;hombre;0.25526232
+2017;54;Norte de Santander;Cucuta;mujer;0.27676594
+2017;63;Quindio;Armenia;hombre;0.4123925
+2017;63;Quindio;Armenia;mujer;0.4318217
+2017;66;Risaralda;Pereira;hombre;0.37520379
+2017;66;Risaralda;Pereira;mujer;0.40623447
+2017;68;Santander;Bucaramanga;hombre;0.42706877
+2017;68;Santander;Bucaramanga;mujer;0.45733446
+2017;70;Sucre;Sincelejo;hombre;0.16772842
+2017;70;Sucre;Sincelejo;mujer;0.1883003
+2017;73;Tolima;Ibague;hombre;0.29915777
+2017;73;Tolima;Ibague;mujer;0.32114625
+2017;76;Valle del Cauca;Cali;hombre;0.50514019
+2017;76;Valle del Cauca;Cali;mujer;0.53481662
+2018;5;Antioquia;Medellin;hombre;0.51360297
+2018;5;Antioquia;Medellin;mujer;0.54613286
+2018;8;Atlantico;Barranquilla;hombre;0.40540576
+2018;8;Atlantico;Barranquilla;mujer;0.42968795
+2018;11;Bogota;Bogota;hombre;0.66061801
+2018;11;Bogota;Bogota;mujer;0.66836792
+2018;13;Bolivar;Cartagena;hombre;0.22042342
+2018;13;Bolivar;Cartagena;mujer;0.24587841
+2018;15;Boyaca;Tunja;hombre;0.26282009
+2018;15;Boyaca;Tunja;mujer;0.25389796
+2018;17;Caldas;Manizales;hombre;0.38329011
+2018;17;Caldas;Manizales;mujer;0.41593701
+2018;18;Caqueta;Florencia;hombre;0.14975403
+2018;18;Caqueta;Florencia;mujer;0.15120643
+2018;19;Cauca;Popayan;hombre;0.17659247
+2018;19;Cauca;Popayan;mujer;0.20253982
+2018;20;Cesar;Valledupar;hombre;0.21136121
+2018;20;Cesar;Valledupar;mujer;0.2364019
+2018;23;Cordoba;Monteria;hombre;0.1546185
+2018;23;Cordoba;Monteria;mujer;0.17664343
+2018;25;Cundinamarca;Cundinamarca;hombre;0.34291109
+2018;25;Cundinamarca;Cundinamarca;mujer;0.35235757
+2018;27;Choco;Quibdo;hombre;0.09211126
+2018;27;Choco;Quibdo;mujer;0.099522613
+2018;41;Huila;Neiva;hombre;0.27125403
+2018;41;Huila;Neiva;mujer;0.28127971
+2018;44;La Guajira;Riohacha;hombre;0.15850781
+2018;44;La Guajira;Riohacha;mujer;0.17293043
+2018;47;Magdalena;Santa Marta;hombre;0.21691708
+2018;47;Magdalena;Santa Marta;mujer;0.23902512
+2018;50;Meta;Villavicencio;hombre;0.3944684
+2018;50;Meta;Villavicencio;mujer;0.42519355
+2018;52;Nariño;Pasto;hombre;0.23541813
+2018;52;Nariño;Pasto;mujer;0.25686318
+2018;54;Norte de Santander;Cucuta;hombre;0.26966831
+2018;54;Norte de Santander;Cucuta;mujer;0.28780034
+2018;63;Quindio;Armenia;hombre;0.36574677
+2018;63;Quindio;Armenia;mujer;0.39678007
+2018;66;Risaralda;Pereira;hombre;0.40206024
+2018;66;Risaralda;Pereira;mujer;0.4488005
+2018;68;Santander;Bucaramanga;hombre;0.43879724
+2018;68;Santander;Bucaramanga;mujer;0.46814409
+2018;70;Sucre;Sincelejo;hombre;0.19870433
+2018;70;Sucre;Sincelejo;mujer;0.22918643
+2018;73;Tolima;Ibague;hombre;0.29414538
+2018;73;Tolima;Ibague;mujer;0.315368
+2018;76;Valle del Cauca;Cali;hombre;0.51592189
+2018;76;Valle del Cauca;Cali;mujer;0.54510844
+2019;5;Antioquia;Medellin;hombre;0.52325946
+2019;5;Antioquia;Medellin;mujer;0.55674636
+2019;8;Atlantico;Barranquilla;hombre;0.41584393
+2019;8;Atlantico;Barranquilla;mujer;0.43776941
+2019;11;Bogota;Bogota;hombre;0.67397201
+2019;11;Bogota;Bogota;mujer;0.68223071
+2019;13;Bolivar;Cartagena;hombre;0.22697675
+2019;13;Bolivar;Cartagena;mujer;0.25986356
+2019;15;Boyaca;Tunja;hombre;0.29985785
+2019;15;Boyaca;Tunja;mujer;0.30991304
+2019;17;Caldas;Manizales;hombre;0.39578816
+2019;17;Caldas;Manizales;mujer;0.42385346
+2019;18;Caqueta;Florencia;hombre;0.22524814
+2019;18;Caqueta;Florencia;mujer;0.24700359
+2019;19;Cauca;Popayan;hombre;0.22327211
+2019;19;Cauca;Popayan;mujer;0.23451176
+2019;20;Cesar;Valledupar;hombre;0.2318393
+2019;20;Cesar;Valledupar;mujer;0.25267446
+2019;23;Cordoba;Monteria;hombre;0.2067236
+2019;23;Cordoba;Monteria;mujer;0.23245263
+2019;25;Cundinamarca;Cundinamarca;hombre;0.37729731
+2019;25;Cundinamarca;Cundinamarca;mujer;0.40081802
+2019;27;Choco;Quibdo;hombre;0.10498349
+2019;27;Choco;Quibdo;mujer;0.11193369
+2019;41;Huila;Neiva;hombre;0.29350108
+2019;41;Huila;Neiva;mujer;0.31907094
+2019;44;La Guajira;Riohacha;hombre;0.16149825
+2019;44;La Guajira;Riohacha;mujer;0.16600557
+2019;47;Magdalena;Santa Marta;hombre;0.2130217
+2019;47;Magdalena;Santa Marta;mujer;0.24207637
+2019;50;Meta;Villavicencio;hombre;0.37817886
+2019;50;Meta;Villavicencio;mujer;0.41535884
+2019;52;Nariño;Pasto;hombre;0.22409332
+2019;52;Nariño;Pasto;mujer;0.2344912
+2019;54;Norte de Santander;Cucuta;hombre;0.26868194
+2019;54;Norte de Santander;Cucuta;mujer;0.2967248
+2019;63;Quindio;Armenia;hombre;0.40674067
+2019;63;Quindio;Armenia;mujer;0.41600379
+2019;66;Risaralda;Pereira;hombre;0.4119626
+2019;66;Risaralda;Pereira;mujer;0.44603381
+2019;68;Santander;Bucaramanga;hombre;0.44247702
+2019;68;Santander;Bucaramanga;mujer;0.46887848
+2019;70;Sucre;Sincelejo;hombre;0.24312371
+2019;70;Sucre;Sincelejo;mujer;0.27094555
+2019;73;Tolima;Ibague;hombre;0.3265833
+2019;73;Tolima;Ibague;mujer;0.3561005
+2019;76;Valle del Cauca;Cali;hombre;0.55832446
+2019;76;Valle del Cauca;Cali;mujer;0.58539176
